@@ -10,9 +10,6 @@
             "minLength": 6,
             "type": "string"
         },
-        "is_mini": {
-            "type": "boolean"
-        },
         "name": {
             "minLength": 1,
             "type": "string"

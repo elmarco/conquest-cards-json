@@ -1,74 +1,47 @@
 [
     {
-        "code": "adam",
+        "code": "space",
         "color": "000000",
-        "is_mini": true,
-        "name": "Adam"
+        "name": "Space Marines"
     },
     {
-        "code": "anarch",
-        "color": "FF4500",
-        "is_mini": false,
-        "name": "Anarch"
-    },
-    {
-        "code": "apex",
+        "code": "astra",
         "color": "000000",
-        "is_mini": true,
-        "name": "Apex"
+        "name": "Astra Militarum"
     },
     {
-        "code": "criminal",
-        "color": "4169E1",
-        "is_mini": false,
-        "name": "Criminal"
-    },
-    {
-        "code": "haas-bioroid",
-        "color": "8A2BE2",
-        "is_mini": false,
-        "name": "Haas-Bioroid"
-    },
-    {
-        "code": "jinteki",
-        "color": "DC143C",
-        "is_mini": false,
-        "name": "Jinteki"
-    },
-    {
-        "code": "nbn",
-        "color": "FF8C00",
-        "is_mini": false,
-        "name": "NBN"
-    },
-    {
-        "code": "neutral-corp",
-        "color": "808080",
-        "is_mini": false,
-        "name": "Neutral"
-    },
-    {
-        "code": "neutral-runner",
-        "color": "808080",
-        "is_mini": false,
-        "name": "Neutral"
-    },
-    {
-        "code": "shaper",
-        "color": "32CD32",
-        "is_mini": false,
-        "name": "Shaper"
-    },
-    {
-        "code": "sunny-lebeau",
+        "code": "orks",
         "color": "000000",
-        "is_mini": true,
-        "name": "Sunny Lebeau"
+        "name": "Orks"
     },
     {
-        "code": "weyland-consortium",
-        "color": "006400",
-        "is_mini": false,
-        "name": "Weyland Consortium"
+        "code": "chaos",
+        "color": "000000",
+        "name": "Chaos"
+    },
+    {
+        "code": "dark",
+        "color": "000000",
+        "name": "Dark Eldar"
+    },
+    {
+        "code": "eldar",
+        "color": "000000",
+        "name": "Eldar"
+    },
+    {
+        "code": "tau",
+        "color": "000000",
+        "name": "Tau"
+    },
+    {
+        "code": "tyranid",
+        "color": "000000",
+        "name": "Tyranid"
+    },
+    {
+        "code": "necrons",
+        "color": "000000",
+        "name": "Necrons"
     }
 ]

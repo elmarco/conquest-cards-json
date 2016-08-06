@@ -1,20 +1,63 @@
 {
     "additionalProperties": false,
     "properties": {
-        "advancement_cost": {
-            "minimum": 0,
-            "type": "integer"
+        "atk": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
-        "agenda_points": {
-            "minimum": 0,
-            "type": "integer"
+        "bloodied_atk": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
-        "base_link": {
-            "minimum": 0,
-            "type": "integer"
+        "bloodied_hp": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "card_bonus": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "cmd": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "code": {
-            "pattern": "^[0-9]{5}$",
+            "pattern": "^[0-9]{3}$",
             "type": "string"
         },
         "cost": {
@@ -28,27 +71,15 @@
                 }
             ]
         },
-        "deck_limit": {
-            "minimum": 1,
-            "type": "integer"
-        },
         "faction_code": {
             "minLength": 1,
             "type": "string"
-        },
-        "faction_cost": {
-            "minimum": 0,
-            "type": "integer"
         },
         "flavor": {
             "minLength": 1,
             "type": "string"
         },
-        "illustrator": {
-            "pattern": ".+",
-            "type": "string"
-        },
-        "influence_limit": {
+        "hp": {
             "oneOf": [
                 {
                     "minimum": 0,
@@ -59,38 +90,69 @@
                 }
             ]
         },
-        "keywords": {
-            "minLength": 1,
+        "illustrator": {
+            "pattern": ".+",
             "type": "string"
         },
-        "memory_cost": {
-            "minimum": 0,
-            "type": "integer"
+        "limited": {
+            "type": "boolean"
         },
-        "minimum_deck_size": {
-            "minimum": 0,
-            "type": "integer"
+        "loyal": {
+            "type": "boolean"
         },
         "pack_code": {
             "maxLength": 5,
             "minLength": 2,
             "type": "string"
         },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
+        "planet_symbols": {
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1,
+            "type": "array",
+            "uniqueItems": true
         },
-        "quantity": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "side_code": {
-            "minLength": 1,
-            "type": "string"
-        },
-        "strength": {
+        "resource_bonus": {
             "oneOf": [
                 {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "shields": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "signed": {
+            "type": "boolean"
+        },
+        "starting_cards": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "starting_resources": {
+            "oneOf": [
+                {
+                    "minimum": 0,
                     "type": "integer"
                 },
                 {
@@ -106,29 +168,27 @@
             "minLength": 1,
             "type": "string"
         },
-        "trash_cost": {
-            "minimum": 0,
-            "type": "integer"
+        "traits": {
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1,
+            "type": "array",
+            "uniqueItems": true
         },
         "type_code": {
             "minLength": 1,
             "type": "string"
         },
-        "uniqueness": {
+        "unique": {
             "type": "boolean"
         }
     },
     "required": [
         "code",
-        "faction_code",
-        "deck_limit",
-        "pack_code",
-        "position",
-        "quantity",
-        "side_code",
-        "title",
         "type_code",
-        "uniqueness"
+        "title",
+        "illustrator"
     ],
     "type": "object"
 }
