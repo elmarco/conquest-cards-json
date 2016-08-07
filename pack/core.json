@@ -2176,6 +2176,416 @@
         "type_code": "support"
     },
     {
+        "atk": 3,
+        "cmd": 1,
+        "code": "123",
+        "cost": 3,
+        "faction_code": "eldar",
+        "flavor": "Starbane's most trusted advisors are also his most deadly bodyguards.",
+        "hp": 3,
+        "illustrator": "John Gravato",
+        "pack_code": "core",
+        "quantity": 4,
+        "signed": true,
+        "text": "This unit gets +2 ATK while attacking an exhausted unit.",
+        "title": "Starbane's Council",
+        "traits": [
+            "Psyker",
+            "Alaitoc"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "124",
+        "cost": 1,
+        "faction_code": "eldar",
+        "flavor": "A great monolith declaring the greatness of the Craftworld, and a warning to all who would dare assail it.",
+        "illustrator": "Mark Molnar",
+        "pack_code": "core",
+        "quantity": 1,
+        "signed": true,
+        "text": "<strong>Reaction:</strong> After an [ELDAR] unit moves to a planet, exhaust this support to ready that unit.",
+        "title": "Alaitoc Shrine",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "125",
+        "cost": 1,
+        "faction_code": "eldar",
+        "flavor": "“I have seen the infinite possibilities of the future, their twisting paths and hidden truths.” -Eldorath Starbane",
+        "illustrator": "Jason Juta",
+        "pack_code": "core",
+        "quantity": 2,
+        "shields": 1,
+        "signed": true,
+        "text": "<strong>Reaction:</strong> After your warlord commits to a planet, commit it to a different planet.",
+        "title": "Foresight",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "126",
+        "cost": 0,
+        "faction_code": "eldar",
+        "illustrator": "Mariusz Gandzel",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 3,
+        "signed": true,
+        "text": "Attach to an army unit.\nAttached unit gains Mobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet)</em>",
+        "title": "Mobility",
+        "traits": [
+            "Skill"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "atk": 1,
+        "cmd": 2,
+        "code": "127",
+        "cost": 1,
+        "faction_code": "eldar",
+        "flavor": "The Eldar Guardians are the militia of the Craftworld, called upon to defend their home in times of war.",
+        "hp": 1,
+        "illustrator": "GW Design Studio",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "title": "Biel-Tan Guardians",
+        "traits": [
+            "Warrior",
+            "Biel-Tan",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "128",
+        "cost": 3,
+        "faction_code": "eldar",
+        "hp": 2,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
+        "title": "Altansar Rangers",
+        "traits": [
+            "Scout",
+            "Altansar"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 0,
+        "card_bonus": 1,
+        "cmd": 1,
+        "code": "129",
+        "cost": 2,
+        "faction_code": "eldar",
+        "flavor": "Freed from the constraints of the Eldar Path, these outcasts are free to explore the galaxy, but remain ever vigilant of dangers to their race.",
+        "hp": 2,
+        "illustrator": "Sergio Camaren",
+        "pack_code": "core",
+        "quantity": 2,
+        "resource_bonus": 1,
+        "title": "Eldar Survivalist",
+        "traits": [
+            "Scout",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 1,
+        "code": "130",
+        "cost": 4,
+        "faction_code": "eldar",
+        "hp": 4,
+        "illustrator": "Erfian Asafat",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\n<strong>Combat Action:</strong> Move this unit to an adjacent planet. (Limit once per phase.)",
+        "title": "Wildrider Squadron",
+        "traits": [
+            "Vehicle",
+            "Saim-Hann"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 2,
+        "code": "131",
+        "cost": 3,
+        "faction_code": "eldar",
+        "hp": 5,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\nMobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
+        "title": "Soaring Falcon",
+        "traits": [
+            "Vehicle"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 2,
+        "code": "132",
+        "cost": 6,
+        "faction_code": "eldar",
+        "hp": 5,
+        "illustrator": "GW Design Studio",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-Flying units.)</em>\n<strong>Reaction:</strong> After this unit is declared as an attacker, your opponent must choose and discard 1 card from his hand, if able.",
+        "title": "Wailing Wraithfighter",
+        "traits": [
+            "Vehicle",
+            "Spirit",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 4,
+        "cmd": 1,
+        "code": "133",
+        "cost": 3,
+        "faction_code": "eldar",
+        "flavor": "These wraithbone shells are animated by the Spirit Stone of a deceased Eldar warrior. They are called upon only in times of great need.",
+        "hp": 2,
+        "illustrator": "Erfian Asafat",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Armorbane. <em>(Shield cards cannot be played while this unit is attacking.)</em>",
+        "title": "Iyanden Wraithguard",
+        "traits": [
+            "Drone",
+            "Spirit",
+            "Iyanden"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "134",
+        "cost": 2,
+        "faction_code": "eldar",
+        "flavor": "They wander from Craftworld to Craftworld recounting Eldar history in intricate performances.",
+        "hp": 1,
+        "illustrator": "Michal Ivan",
+        "pack_code": "core",
+        "quantity": 2,
+        "text": "<strong>Interrupt:</strong> When this unit is destroyed, exhaust a target enemy unit at a planet of your choice.",
+        "title": "Shrouded Harlequin",
+        "traits": [
+            "Warrior"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "135",
+        "cost": 3,
+        "faction_code": "eldar",
+        "hp": 2,
+        "illustrator": "Clint Langley",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After this unit enters play, search the top 6 cards of your deck for a card. Add it to your hand, and place the remaining cards on the bottom of your deck in any order.",
+        "title": "Swordwind Farseer",
+        "traits": [
+            "Psyker",
+            "Biel-Tan"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "136",
+        "cost": 4,
+        "faction_code": "eldar",
+        "flavor": "Dire Avengers of the Silvered Blade Shrine rely on devastating assaults to pin their foes, ensuring they are unable to strike back.",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After this unit is declared as an attacker against a non-warlord unit, exhaust that unit.",
+        "title": "Silvered Blade Avengers",
+        "traits": [
+            "Warrior"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "137",
+        "cost": 2,
+        "faction_code": "eldar",
+        "hp": 3,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After this unit is declared as an attacker, look at the top 2 cards of any player's deck. You may discard 1 of those cards.",
+        "title": "Biel-Tan Warp Spiders",
+        "traits": [
+            "Warrior",
+            "Biel-Tan"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "138",
+        "cost": 3,
+        "faction_code": "eldar",
+        "flavor": "“I commune with the fallen so that the living may thrive.” -Spiritseer Erathal",
+        "hp": 3,
+        "illustrator": "Mariusz Gandzel",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After this unit is declared as an attacker, remove 1 damage from another target unit at this planet.",
+        "title": "Spiritseer Erathal",
+        "traits": [
+            "Psyker",
+            "Saim-Hann"
+        ],
+        "type_code": "army",
+        "unique": true
+    },
+    {
+        "code": "139",
+        "cost": 1,
+        "faction_code": "eldar",
+        "illustrator": "Nikolay Stoyanov",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Interrupt:</strong> When a command struggle at a planet begins, a target army unit at that planet loses all command icons until the end of that command struggle.",
+        "title": "Superiority",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "140",
+        "cost": 0,
+        "faction_code": "eldar",
+        "flavor": "'Your Plans are undone, your strategies rendered worthless. Prepare to die.” -Warlock Saetheis",
+        "illustrator": "John Gravato",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Interrupt:</strong> When your opponent plays an event card, exhaust a unique [ELDAR] unit to cancel its effects.",
+        "title": "Nullify",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "141",
+        "cost": 4,
+        "faction_code": "eldar",
+        "flavor": "'I have seen the future, and it is death.” -Farseer Avenelle",
+        "illustrator": "Clint Langley",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Deploy Action:</strong> Destroy each non-unique unit at each player's HQ.",
+        "title": "Doom",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "142",
+        "cost": 2,
+        "faction_code": "eldar",
+        "illustrator": "JB Casacop",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "<strong>Action:</strong> Put the topmost [ELDAR] unit from your discard pile into play at a planet. If that unit is still in play at the end of the phase, discard it. ",
+        "title": "Gift of Isha",
+        "traits": [
+            "Power",
+            "Blessing"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "143",
+        "cost": 1,
+        "faction_code": "eldar",
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "Attach to an army unit.\nAttached unit gets +1 ATK.\n<strong>Interrupt:</strong> When attached unit declares an attack against a non-warlord unit, discard X cards from your hand to give attached unit +X ATK for that attack.",
+        "title": "Banshee Power Sword",
+        "traits": [
+            "Wargear",
+            "Weapon"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "144",
+        "cost": 1,
+        "faction_code": "eldar",
+        "illustrator": "GW Design Studio",
+        "limited": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ELDAR] unit, exhaust this support to reduce that unit's cost by 1.",
+        "title": "Corsair Trading Port",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
+        "code": "145",
+        "cost": 1,
+        "faction_code": "eldar",
+        "flavor": "The Webway allows the Eldar to move across the galaxy without risking the perils of the Warp.",
+        "illustrator": "Alexandr Elichev",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Action:</strong> Exhaust this support to return a target army unit you control to your hand.",
+        "title": "Craftworld Gate",
+        "traits": [
+            "Upgrade"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
         "code": "169",
         "cost": 0,
         "faction_code": "neutral",
