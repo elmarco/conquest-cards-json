@@ -113,6 +113,10 @@
             "type": "array",
             "uniqueItems": true
         },
+        "quantity": {
+            "minimum": 1,
+            "type": "integer"
+        },
         "resource_bonus": {
             "oneOf": [
                 {
@@ -186,9 +190,10 @@
     },
     "required": [
         "code",
-        "type_code",
+        "illustrator",
+        "quantity",
         "title",
-        "illustrator"
+        "type_code"
     ],
     "type": "object"
 }

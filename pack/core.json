@@ -9,6 +9,7 @@
         "hp": 6,
         "illustrator": "Diego Gisbert Llorens",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "<strong>Reaction:</strong> After an enemy unit at this planet is destroyed, gain 1[RESOURCE].",
@@ -30,6 +31,7 @@
         "hp": 6,
         "illustrator": "Ilich Henriquez",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "Each other <strong>Soldier</strong> or <strong>Warrior</strong> unit you control at this planet gets +1 ATK.",
@@ -51,6 +53,7 @@
         "hp": 7,
         "illustrator": "Alberto Bontempi",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "Each other unit you control at this planet gains Brutal. <em>(Each unit with Brutal gets +1 ATK for each damage on it.)</em>",
@@ -72,6 +75,7 @@
         "hp": 6,
         "illustrator": "Ilich Henriquez",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "<strong>Interrupt:</strong> When damage is assigned to an enemy unit at this planet, increase that damage by 1.",
@@ -93,6 +97,7 @@
         "hp": 6,
         "illustrator": "Diego Gisbert Llorens",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "After this warlord commits to a planet, put a Khymera token into play at this planet.",
@@ -115,6 +120,7 @@
         "hp": 7,
         "illustrator": "Jason Juta",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "After this warlord commits to a planet, exhaust a target non-warlord unit at that planet.",
@@ -136,6 +142,7 @@
         "hp": 7,
         "illustrator": "Jason Juta",
         "pack_code": "core",
+        "quantity": 1,
         "starting_cards": 7,
         "starting_resources": 7,
         "text": "After this warlord commits to a planet, put a [TAU] attachment with printed cost 2 or lower or “Shadowsun's Stealth Cadre” from your hand or discard pile into play attached to an eligible unit at this planet.",
@@ -156,6 +163,7 @@
         "hp": 3,
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 4,
         "signed": true,
         "text": "<strong>Reaction:</strong> After this unit enters play, move a target enemy army unit at an adjacent planet to this planet and deal it 1 damage.",
         "title": "Sicarius's Chosen",
@@ -172,6 +180,7 @@
         "flavor": "Within the walls of this impregnable fortress, Captain Sicarius crafts his brilliant strategies and perfects the deadly art of war.",
         "illustrator": "Justin Adams",
         "pack_code": "core",
+        "quantity": 1,
         "signed": true,
         "text": "<strong>Reaction:</strong> After an enemy unit is destroyed, exhaust this support to ready a target [SPACE MARINE] unit at the same planet.",
         "title": "Cato's Stronghold",
@@ -186,6 +195,7 @@
         "faction_code": "space",
         "illustrator": "Imaginary FS Pte Ltd",
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "signed": true,
         "text": "<strong>Reaction:</strong> After a [SPACE MARINE] unit damages an enemy non-warlord unit by an attack, destroy the attacked unit.",
@@ -201,6 +211,7 @@
         "faction_code": "space",
         "illustrator": "Jon Sullivan",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 3,
         "signed": true,
         "text": "Limit 1 <strong>Relic</strong> per player.\nAttach to a unique unit.\nAttached unit gets +1 ATK and gains Armorbane. <em>(Shield cards cannot be used while this unit is attacking.)</em>",
@@ -222,6 +233,7 @@
         "hp": 1,
         "illustrator": "Jon Cave",
         "pack_code": "core",
+        "quantity": 1,
         "title": "10th Company Scout",
         "traits": [
             "Scout",
@@ -238,6 +250,7 @@
         "hp": 3,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 2,
         "text": "Area Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
         "title": "Tactical Squad Cardinis",
         "traits": [
@@ -257,6 +270,7 @@
         "illustrator": "Nikolaus Ingeneri",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Enemy units cannot attack this unit while you control a unit not named “Honored Librarian” at this planet.",
         "title": "Honored Librarian",
         "traits": [
@@ -274,6 +288,7 @@
         "hp": 3,
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 2,
         "text": "While this unit is ready, it gains, “<strong>Interrupt:</strong> When this unit is assigned damage, prevent 1 of that damage.”",
         "title": " Blood Angels Veterans ",
         "traits": [
@@ -291,6 +306,7 @@
         "hp": 3,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 1,
         "text": "Area Effect (2). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
         "title": "Daring Assault Squad",
         "traits": [
@@ -308,6 +324,7 @@
         "hp": 7,
         "illustrator": "Jeff Porter",
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nNon-<strong>Vehicle</strong> units you control at this planet cannot be targeted by enemy card abilities.",
         "title": "Land Raider",
         "traits": [
@@ -327,6 +344,7 @@
         "illustrator": "GW Design Studio",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.",
         "title": "Ultramarines Dreadnought",
         "traits": [
@@ -346,6 +364,7 @@
         "illustrator": "Matt Bradbury",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Combat Action:</strong> Pay the printed cost of a [SPACE MARINE] unit in your hand to put it into play at this planet.",
         "title": "Veteran Brother Maxos",
         "traits": [
@@ -364,6 +383,7 @@
         "hp": 1,
         "illustrator": "Nicholas Gregory",
         "pack_code": "core",
+        "quantity": 1,
         "text": "Ambush. <em>(You may deploy this card during the combat phase.)</em>",
         "title": "Eager Recruit",
         "traits": [
@@ -382,6 +402,7 @@
         "hp": 3,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 1,
         "text": "This unit gains 1 command icon for each enemy unit at this planet.",
         "title": "Iron Hands Techmarine",
         "traits": [
@@ -399,6 +420,7 @@
         "hp": 3,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-flying units.)</em>",
         "title": "Raven Guard Speeder",
         "traits": [
@@ -418,6 +440,7 @@
         "illustrator": "Aidan Wilson",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "title": "Deathwing Guard",
         "traits": [
             "Soldier",
@@ -433,6 +456,7 @@
         "illustrator": "Matt Bradbury",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "shields": 2,
         "text": "<strong>Combat Action:</strong> Target a planet where a battle is taking place. Search the top 6 cards of your deck for a [Space Marine] unit with printed cost 3 or lower. Put that unit into play at the targeted planet, and place the remaing cards on the bottom of your deck in any order.",
         "title": "Drop Pod Assault",
@@ -448,6 +472,7 @@
         "flavor": "“On our honor and for the Emperor, we shall not fall!” -Brother Vandius, Ultramarines",
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "<strong>Reaction:</strong> After a [SPACE MARINE] unit is assigned damage by an attack, prevent all of that damage.",
         "title": "Indomitable",
@@ -463,6 +488,7 @@
         "flavor": "When a threat is so great that not even the Space Marines can conquer it, obliteration is the only option.",
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "<strong>Deploy Action:</strong> Destroy all non-unique units at a target non-first planet.",
         "title": "Exterminatus",
@@ -477,6 +503,7 @@
         "faction_code": "space",
         "illustrator": "Nikolaus Ingeneri",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "Attach to an army unit.\nAttached unit gets +1 ATK, +1 HP and while it is attacking ignores the Flying keyword on enemy units.",
         "title": "Godwyn Pattern Bolter",
@@ -493,6 +520,7 @@
         "illustrator": "Taylor Ingvarsson",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "shields": 2,
         "text": "Limit 1 <strong>Relic</strong> per player.\nAttach to a unique unit.\n<strong>Reaction:</strong> After attached unit is assigned damage by an attack, exhaust this attachment to prevent all of that damage.",
         "title": "Iron Halo",
@@ -509,6 +537,7 @@
         "illustrator": "Alex Drummond",
         "limited": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Limited. (Limit one Limited card per round.)\n<strong>Interrupt:</strong> When you deploy a [SPACE MARINE] unit, exhaust this support to reduce that unit's cost by 1.",
         "title": "Fortress-Monastery",
         "traits": [
@@ -523,6 +552,7 @@
         "faction_code": "space",
         "illustrator": "Ameen Naksewee",
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Reaction:</strong> After a [SPACE MARINE] unit enters your discard pile from play, exhaust this support to return that unit to your hand.",
         "title": "Holy Sepulchre",
         "traits": [
@@ -539,6 +569,7 @@
         "hp": 2,
         "illustrator": "Erfian Asafat",
         "pack_code": "core",
+        "quantity": 4,
         "signed": true,
         "text": "<strong>Interrupt:</strong> When this unit leaves play, put a Guardsman token into play at the same planet.",
         "title": " Straken's Command Squad ",
@@ -555,6 +586,7 @@
         "flavor": "An iron bastion from which to stem the flow of enemy assaults.",
         "illustrator": "Zachary Graves",
         "pack_code": "core",
+        "quantity": 1,
         "signed": true,
         "text": "<strong>Reaction:</strong> After you win a command struggle, put a Guardsman token into play at that planet. ",
         "title": " Omega Zero Command ",
@@ -569,6 +601,7 @@
         "faction_code": "astra",
         "illustrator": "Taylor Ingvarsson",
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "signed": true,
         "text": "<strong>Reaction:</strong> After a unit is assigned damage by an attack, sacrifice a <strong>Soldier</strong> or <strong>Warrior</strong> unit at the same planet to prevent all of that damage. Then, deal X damage to the attacker. X is the sacrificed unit's printed ATK value.",
@@ -584,6 +617,7 @@
         "faction_code": "astra",
         "illustrator": "Ilich Henriquez",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 3,
         "signed": true,
         "text": "Attach to an army unit.\nAttached unit gets +1 ATK.\n<strong>Interrupt:</strong> When attached unit leaves play, draw 3 cards.",
@@ -602,6 +636,7 @@
         "hp": 1,
         "illustrator": "Ilich Henriquez",
         "pack_code": "core",
+        "quantity": 2,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
         "title": "Ratling Deadeye",
         "traits": [
@@ -620,6 +655,7 @@
         "illustrator": "Dan Scott",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>\n<strong>Reaction:</strong> After an army unit you control at this planet leaves play, ready this unit.",
         "title": "Cadian Mortar Squad",
         "traits": [
@@ -638,6 +674,7 @@
         "hp": 4,
         "illustrator": "Jason Juta",
         "pack_code": "core",
+        "quantity": 1,
         "title": "Sanctioned Psyker",
         "traits": [
             "Psyker"
@@ -655,6 +692,7 @@
         "illustrator": "David Nash",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.",
         "title": "Leman Russ Battle Tank",
         "traits": [
@@ -673,6 +711,7 @@
         "hp": 3,
         "illustrator": "Sam Lamont",
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nArea Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
         "title": "Mordian Hellhound",
         "traits": [
@@ -691,6 +730,7 @@
         "hp": 4,
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-flying units.)</em>",
         "title": "Assault Valkyrie",
         "traits": [
@@ -709,6 +749,7 @@
         "hp": 2,
         "illustrator": "Ameen Naksewee",
         "pack_code": "core",
+        "quantity": 1,
         "text": "Immune to enemy events. ",
         "title": "Stalwart Ogryn",
         "traits": [
@@ -728,6 +769,7 @@
         "illustrator": "Matt Bradbury",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Action:</strong> Sacrifice an [ASTRA MILITARUM] unit at this planet to exhaust a target non-warlord unit at this planet. (Limit once per phase.)",
         "title": "Captain Markis",
         "traits": [
@@ -747,6 +789,7 @@
         "illustrator": "Sam Lamont",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Interrupt:</strong> When this unit leaves play, search the top 6 cards of your deck for an [ASTRA MILITARUM] support card with printed cost 2 or lower. Put that card into play at your HQ, and place the remaining cards on the bottom of your deck in any order.",
         "title": "Enginseer Augur",
         "traits": [
@@ -764,6 +807,7 @@
         "hp": 1,
         "illustrator": "Ilich Henriquez",
         "pack_code": "core",
+        "quantity": 1,
         "title": "Penal Legionnaire",
         "traits": [
             "Conscript",
@@ -780,6 +824,7 @@
         "hp": 5,
         "illustrator": "Andrius Anezin",
         "pack_code": "core",
+        "quantity": 2,
         "text": "This unit gets +2 ATK for each support card you control.",
         "title": "Infantry Conscripts",
         "traits": [
@@ -796,6 +841,7 @@
         "hp": 1,
         "illustrator": "Michal Ivan",
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Interrupt:</strong> When a <strong>Soldier</strong> or <strong>Warrior</strong> unit you control leaves play from a planet, put this unit into play from your hand at the same planet. ",
         "title": "Elysian Assault Team",
         "traits": [
@@ -811,6 +857,7 @@
         "illustrator": "Michał Miłkowski",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "shields": 2,
         "text": "<strong>Combat Action:</strong> Target up to 3 [ASTRA MILITARUM] units you control at the same planet. Each targeted unit gains Ranged until the end of the phase. <em>(Units with Ranged attack during the ranged skirmish at the beginning of a battle.)</em>",
         "title": " Preemptive Barrage",
@@ -826,6 +873,7 @@
         "flavor": "“Let's see them charge through this!” -Corporal Valz ",
         "illustrator": "Erfian Asafat",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "<strong>Combat Action:</strong> Exhaust a unit you control to exhaust a target non-warlord unit at the same planet.",
         "title": "Suppressive Fire",
@@ -841,6 +889,7 @@
         "flavor": "The Cadian tri-dome helmet and mark XI re-breather are renowned for their defence against environmental toxins and noxious gases.",
         "illustrator": "Imaginary FS Pte Ltd",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "Attach to an army unit.\nAttached unit gets +3 HP.",
         "title": "Hostile Environment Gear",
@@ -857,6 +906,7 @@
         "illustrator": "Michal Ivan",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "shields": 2,
         "text": "Attach to an army unit you control. <strong>Forced Reaction:</strong> After a unit you control is assigned damage by an attack at this planet, reassign 1 of that damage to attached unit.",
         "title": "Bodyguard",
@@ -872,6 +922,7 @@
         "illustrator": "Erfian Asafat",
         "limited": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ASTRA MILITARUM] unit, exhaust this support to reduce that unit's cost by 1.",
         "title": "Imperial Bunker",
         "traits": [
@@ -887,6 +938,7 @@
         "illustrator": "Ben Zweifel",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "If this card has 4 or more damage on it, sacrifice it.\n<strong>Interrupt:</strong> When damage is assigned to a unit you control, exhaust this support to reassign 1 of that damage to this support.",
         "title": "Rockcrete Bunker",
         "traits": [
@@ -901,6 +953,7 @@
         "flavor": "Capturing it was easy. Keeping it was the trickey part",
         "illustrator": "Mark Molnar",
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Combat Action:</strong> Exhaust this support to give a target unit +2 ATK for its next attack this phase.",
         "title": "Catachan Outpost",
         "traits": [
@@ -918,6 +971,7 @@
         "hp": 4,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 4,
         "signed": true,
         "text": "<strong>Combat Action:</strong> Deal this unit 1 damage to ready it. <em>(Limit once per phase.)</em>",
         "title": "Nazdreg's Flash Gitz",
@@ -933,6 +987,7 @@
         "faction_code": "orks",
         "illustrator": "Dimitri Bielak",
         "pack_code": "core",
+        "quantity": 1,
         "signed": true,
         "text": "<strong>Combat Action:</strong> Exhaust this support to move 1 damage from a target unit you control to another target unit at the same planet.",
         "title": "Kraktoof Hall",
@@ -948,6 +1003,7 @@
         "flavor": "“Puny 'umies! I iz da biggest!” -Bad Moons Meganob",
         "illustrator": "Imaginary FS Pte Ltd",
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "signed": true,
         "text": "<strong>Interrupt:</strong> When you deploy an [ORK] unit, reduce its cost by 2. Deal 1 damage to that unit after it enters play.",
@@ -964,6 +1020,7 @@
         "flavor": "Ork physiology is extremely resilient and adapts to even the most crude cybernetics with ease.",
         "illustrator": "Alberto Bontempi",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 3,
         "signed": true,
         "text": "Attach to an army unit.\nDouble attached unit's HP.",
@@ -983,6 +1040,7 @@
         "hp": 1,
         "illustrator": "Clint Langley",
         "pack_code": "core",
+        "quantity": 1,
         "title": "Sniveling Grot",
         "traits": [
             "Runt",
@@ -1000,6 +1058,7 @@
         "illustrator": "Sergio Camarena Bernabeu",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "title": "Goff Nob",
         "traits": [
             "Warrior",
@@ -1018,6 +1077,7 @@
         "illustrator": "Clint Langley",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Reaction:</strong> After this unit enters play, deal 1 damage to each other unit at this planet.",
         "title": "Weirdboy Maniak",
         "traits": [
@@ -1036,6 +1096,7 @@
         "hp": 4,
         "illustrator": "Erfian Asafat",
         "pack_code": "core",
+        "quantity": 1,
         "text": "This unit deals double damage to enemy <strong>Vehicle</strong> units.",
         "title": "Tankbusta Bommaz",
         "traits": [
@@ -1054,6 +1115,7 @@
         "illustrator": "Ameen Naksewee",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nBrutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
         "title": "Rugged Killa Kans",
         "traits": [
@@ -1073,6 +1135,7 @@
         "illustrator": "Clint Langley",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Brutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
         "title": "Enraged Ork",
         "traits": [
@@ -1092,6 +1155,7 @@
         "illustrator": "Jason Juta",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Interrupt:</strong> When you deploy another [ORK] unit at this planet, reduce its cost by 1.",
         "title": "Crushface",
         "traits": [
@@ -1111,6 +1175,7 @@
         "hp": 4,
         "illustrator": "Mauro Dal Bo",
         "pack_code": "core",
+        "quantity": 1,
         "text": "This unit gains 3 command icons while it is damaged.",
         "title": "Bad Dok",
         "traits": [
@@ -1129,6 +1194,7 @@
         "hp": 2,
         "illustrator": "Jacob Atienza",
         "pack_code": "core",
+        "quantity": 1,
         "text": "Each enemy unit at this planet loses the Flying keyword.",
         "title": "Rokkitboy",
         "traits": [
@@ -1146,6 +1212,7 @@
         "hp": 2,
         "illustrator": "Jeff Himmelman",
         "pack_code": "core",
+        "quantity": 2,
         "text": "This unit gets +3 ATK while it is at the first planet.",
         "title": "Goff Boyz",
         "traits": [
@@ -1164,6 +1231,7 @@
         "hp": 1,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 1,
         "title": "Shoota Mob",
         "traits": [
             "Warrior",
@@ -1179,6 +1247,7 @@
         "hp": 3,
         "illustrator": "Sam Lamont",
         "pack_code": "core",
+        "quantity": 2,
         "text": "<strong>Reaction:</strong> After this unit declares an attack against an enemy unit, deal 1 damage to a different enemy unit at the same planet.",
         "title": "Burna Boyz",
         "traits": [
@@ -1195,6 +1264,7 @@
         "illustrator": "Sergio Camarena Bernabeu",
         "loyal": true,
         "pack_code": "core",
+        "quantity": 1,
         "shields": 2,
         "text": "Play only during a battle.\n<strong>Combat Action:</strong> Each [ORK] unit you control gets +2 ATK until the end of the battle.",
         "title": "Battle Cry",
@@ -1210,6 +1280,7 @@
         "flavor": "They are used for food, as cannon fodder, and sometimes even as ammunition.",
         "illustrator": "Jeff Porter",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "<strong>Deploy Action:</strong> Put 4 Snotlings tokens into play divided among any number of planets.",
         "title": "Snotling Attack",
@@ -1225,6 +1296,7 @@
         "flavor": "“HAHAHA! GO BOOM!” -Gurt, Gretchin Squigherder, last words",
         "illustrator": "Guillaume Ducos",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "<strong>Action:</strong> Destroy a target support card.",
         "title": "Squig Bombin",
@@ -1239,6 +1311,7 @@
         "faction_code": "orks",
         "illustrator": "Alex Konstad",
         "pack_code": "core",
+        "quantity": 1,
         "shields": 1,
         "text": "Attach to an army unit.\nAttached unit gains Ranged. <em>(Units with Ranged attack during the ranged skirmish at the beginning of a battle.)</em>",
         "title": "Rokkit Launcha",
@@ -1254,6 +1327,7 @@
         "faction_code": "orks",
         "illustrator": "Toni Justamante Jacobs",
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Combat Action:</strong> Exhaust this support to target a planet. Each player deals 1 indirect damage among the units he controls at that planet.",
         "title": "Rokkit Launcha",
         "traits": [
@@ -1269,6 +1343,7 @@
         "illustrator": "Alex Konstad",
         "limited": true,
         "pack_code": "core",
+        "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ORK] unit, exhaust this support to reduce that unit's cost by 1.",
         "title": "Bigtoof Banna",
         "traits": [
@@ -1284,6 +1359,7 @@
         "flavor": "“There is no way this... affront to the Machine God can function!” - Tech Priest Olagoth",
         "illustrator": "Mark Molnar",
         "pack_code": "core",
+        "quantity": 1,
         "text": "<strong>Combat Action:</strong> Exhaust this support to move an [ORK] unit you control to the first planet.",
         "title": "Tellyporta Pad",
         "traits": [
@@ -1297,6 +1373,7 @@
         "faction_code": "neutral",
         "illustrator": "Dimitri Bielak",
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "text": "<strong>Interrupt:</strong> When an opponent uses a shield card, exhaust a unique unit you control to cancel that card's shielding effect.",
         "title": "No Mercy",
@@ -1315,6 +1392,7 @@
         "hp": 1,
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 2,
         "title": "Void Pirate",
         "traits": [
             "Ally"
@@ -1330,6 +1408,7 @@
         "hp": 1,
         "illustrator": "Andrea Uderzo",
         "pack_code": "core",
+        "quantity": 2,
         "resource_bonus": 1,
         "title": "Rogue Trader",
         "traits": [
@@ -1343,6 +1422,7 @@
         "faction_code": "neutral",
         "illustrator": "Ameen Naksewee",
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "text": "<strong>Reaction:</strong> After an <strong>Elite</strong> unit is destroyed, put it into play from your discard pile at your HQ.",
         "title": "Fall Back!",
@@ -1358,6 +1438,7 @@
         "illustrator": "Mark Molnar",
         "limited": true,
         "pack_code": "core",
+        "quantity": 2,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Forced Reaction:</strong> After this card enters play, place 4[RESOURCE] on it.\n<strong>Reaction:</strong> After the deploy phase begins, transfer 1[RESOURCE] from this card to your resource pool.",
         "title": "Promethium Mine",
         "traits": [
@@ -1372,6 +1453,7 @@
         "illustrator": "Matt Bradbury",
         "limited": true,
         "pack_code": "core",
+        "quantity": 2,
         "shields": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\nAttach to an army unit.\nAttached unit gains 2 command icons.",
         "title": "Promotion",
@@ -1389,6 +1471,7 @@
             "Tech",
             "Strongpoint"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> Move a non-warlord unit you control to a planet of your choice. ",
         "title": "Plannum",
@@ -1403,6 +1486,7 @@
             "Material",
             "Tech"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> Deal 1 damage to each enemy unit at a target HQ or adjacent planet.",
         "title": "Atrox Prime",
@@ -1416,6 +1500,7 @@
         "planet_symbols": [
             "Tech"
         ],
+        "quantity": 1,
         "resource_bonus": 0,
         "text": "<strong>Battle:</strong> Discard 1 card at random from your opponent's hand.",
         "title": "Barlus",
@@ -1429,6 +1514,7 @@
         "planet_symbols": [
             "Tech"
         ],
+        "quantity": 1,
         "resource_bonus": 0,
         "text": "<strong>Battle:</strong> Search the top 3 cards of your deck for a card. Add it to your hand, and place the remaining cards on the bottom of your deck in any order.",
         "title": "Elouith",
@@ -1443,6 +1529,7 @@
             "Material",
             "Tech"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> Trigger the Battle ability of another planet in play.",
         "title": "Carnath",
@@ -1457,6 +1544,7 @@
             "Material",
             "Strongpoint"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> If you control fewer units than your opponent, gain 3[RESOURCE] or draw 3 cards.",
         "title": "Tarrus",
@@ -1470,6 +1558,7 @@
         "planet_symbols": [
             "Strongpoint"
         ],
+        "quantity": 1,
         "resource_bonus": 2,
         "text": "<strong>Battle:</strong> Take 1[RESOURCE] from your opponent.",
         "title": "Osus IV",
@@ -1483,6 +1572,7 @@
         "planet_symbols": [
             "Material"
         ],
+        "quantity": 1,
         "resource_bonus": 2,
         "text": "<strong>Battle:</strong> Rout a target non-warlord unit.",
         "title": "Ferrin",
@@ -1498,6 +1588,7 @@
             "Tech",
             "Strongpoint"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> Each player puts a unit into play from his hand at his HQ.",
         "title": "Y'varn",
@@ -1513,6 +1604,7 @@
             "Tech",
             "Strongpoint"
         ],
+        "quantity": 1,
         "resource_bonus": 1,
         "text": "<strong>Battle:</strong> Remove all damage from a target unit.",
         "title": "Iridial",
@@ -1526,6 +1618,7 @@
         "hp": 1,
         "illustrator": "Jeff Porter",
         "pack_code": "core",
+        "quantity": 10,
         "title": "Snotlings",
         "traits": [
             "Runt"
@@ -1540,6 +1633,7 @@
         "hp": 2,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
+        "quantity": 10,
         "title": "Guardsman",
         "traits": [
             "Soldier"
@@ -1553,6 +1647,7 @@
         "hp": 1,
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
+        "quantity": 10,
         "text": "<strong>Interrupt:</strong> When you deploy a Daemon unit, sacrifice this unit to reduce its cost by 1.",
         "title": "Cultist",
         "traits": [
@@ -1568,6 +1663,7 @@
         "hp": 1,
         "illustrator": "Brynn Metheney",
         "pack_code": "core",
+        "quantity": 10,
         "text": "No Attachments.",
         "title": "Khymera",
         "traits": [
