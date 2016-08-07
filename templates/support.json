@@ -2,15 +2,13 @@
         "code": "",
         "cost": X,
         "faction_code": "",
-        "flavor": "",
         "illustrator": "",
         "pack_code": "",
-        "shields": X,
         "signed": true,
         "text": "",
         "title": "",
         "traits": [
             ""
         ],
-        "type_code": "event"
+        "type_code": "support"
     }

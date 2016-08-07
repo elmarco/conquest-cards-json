@@ -1,16 +1,17 @@
     {
+        "atk": X,
+        "cmd": X,
         "code": "",
         "cost": X,
         "faction_code": "",
         "flavor": "",
+        "hp": X,
         "illustrator": "",
         "pack_code": "",
-        "shields": X,
         "signed": true,
         "text": "",
         "title": "",
         "traits": [
-            ""
         ],
-        "type_code": "event"
+        "type_code": "army"
     }

@@ -81,7 +81,7 @@ def load_json_file(args, path):
         verbose_print(args, "%s: File contains invalid content (<sup>)\n" % path, 0)
         validation_errors += 1
         return None
-    
+
     if formatted_raw_data != raw_data:
         verbose_print(args, "%s: File is not correctly formatted JSON.\n" % path, 0)
         formatting_errors += 1

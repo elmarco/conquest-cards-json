@@ -909,6 +909,389 @@
         "type_code": "support"
     },
     {
+        "atk": 2,
+        "cmd": 1,
+        "code": "054",
+        "cost": 3,
+        "faction_code": "orks",
+        "flavor": "The only thing Flash Gitz like better than shooting guns is shooting loud guns.",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "signed": true,
+        "text": "<strong>Combat Action:</strong> Deal this unit 1 damage to ready it. <em>(Limit once per phase.)</em>",
+        "title": "Nazdreg's Flash Gitz",
+        "traits": [
+            "Warrior",
+            "Nob"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "055",
+        "cost": 2,
+        "faction_code": "orks",
+        "illustrator": "Dimitri Bielak",
+        "pack_code": "core",
+        "signed": true,
+        "text": "<strong>Combat Action:</strong> Exhaust this support to move 1 damage from a target unit you control to another target unit at the same planet.",
+        "title": "Kraktoof Hall",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "056",
+        "cost": 0,
+        "faction_code": "orks",
+        "flavor": "“Puny 'umies! I iz da biggest!” -Bad Moons Meganob",
+        "illustrator": "Imaginary FS Pte Ltd",
+        "pack_code": "core",
+        "shields": 1,
+        "signed": true,
+        "text": "<strong>Interrupt:</strong> When you deploy an [ORK] unit, reduce its cost by 2. Deal 1 damage to that unit after it enters play.",
+        "title": "Bigga is Betta",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "057",
+        "cost": 1,
+        "faction_code": "orks",
+        "flavor": "Ork physiology is extremely resilient and adapts to even the most crude cybernetics with ease.",
+        "illustrator": "Alberto Bontempi",
+        "pack_code": "core",
+        "shields": 3,
+        "signed": true,
+        "text": "Attach to an army unit.\nDouble attached unit's HP.",
+        "title": "Cybork Body",
+        "traits": [
+            "Wargear",
+            "Bionics"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "atk": 1,
+        "code": "058",
+        "cost": 0,
+        "faction_code": "orks",
+        "flavor": "In battle, Grots swarm their foes, making up for their weak bodies with sheer numbers.",
+        "hp": 1,
+        "illustrator": "Clint Langley",
+        "pack_code": "core",
+        "title": "Sniveling Grot",
+        "traits": [
+            "Runt",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 6,
+        "code": "059",
+        "cost": 5,
+        "faction_code": "orks",
+        "flavor": "“We're da best. Think different do ya? Come and have a go then, ya runty little wimp!” -Gasgrakh, Goff Nob",
+        "hp": 6,
+        "illustrator": "Sergio Camarena Bernabeu",
+        "loyal": true,
+        "pack_code": "core",
+        "title": "Goff Nob",
+        "traits": [
+            "Warrior",
+            "Nob",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "code": "060",
+        "cost": 3,
+        "faction_code": "orks",
+        "flavor": "Weirdboyz cannot control their ability to absorb psychic energy, much to the detriment of both their foes and allies.",
+        "hp": 4,
+        "illustrator": "Clint Langley",
+        "loyal": true,
+        "pack_code": "core",
+        "text": "<strong>Reaction:</strong> After this unit enters play, deal 1 damage to each other unit at this planet.",
+        "title": "Weirdboy Maniak",
+        "traits": [
+            "Psyker",
+            "Oddboy"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 2,
+        "code": "061",
+        "cost": 4,
+        "faction_code": "orks",
+        "flavor": "“Its a hamma! Wiv a rokkit! We'z need two!” -Tankbusta Grazguz",
+        "hp": 4,
+        "illustrator": "Erfian Asafat",
+        "pack_code": "core",
+        "text": "This unit deals double damage to enemy <strong>Vehicle</strong> units.",
+        "title": "Tankbusta Bommaz",
+        "traits": [
+            "Warrior",
+            "Boyz"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "062",
+        "cost": 4,
+        "faction_code": "orks",
+        "hp": 5,
+        "illustrator": "Ameen Naksewee",
+        "loyal": true,
+        "pack_code": "core",
+        "text": "No <strong>Wargear</strong> Attachments.\nBrutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
+        "title": "Rugged Killa Kans",
+        "traits": [
+            "Vehicle",
+            "Walker"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 0,
+        "cmd": 1,
+        "code": "063",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "“Get 'em boyz! Dakka Dakka dakka!” -Rotgrob, Ork Strategist",
+        "hp": 5,
+        "illustrator": "Clint Langley",
+        "loyal": true,
+        "pack_code": "core",
+        "text": "Brutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
+        "title": "Enraged Ork",
+        "traits": [
+            "Warrior",
+            "Boyz"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "064",
+        "cost": 3,
+        "faction_code": "orks",
+        "flavor": "'I smashed more 'umies dan you lot put togetta! Stay outta my way or I smash you too!” -Crushface",
+        "hp": 3,
+        "illustrator": "Jason Juta",
+        "loyal": true,
+        "pack_code": "core",
+        "text": "<strong>Interrupt:</strong> When you deploy another [ORK] unit at this planet, reduce its cost by 1.",
+        "title": "Crushface",
+        "traits": [
+            "Warrior",
+            "Nob"
+        ],
+        "type_code": "army",
+        "unique": true
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "065",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "“Not dat one! Da uvver arm! ARGH!” -Snagruk, Ork Patient",
+        "hp": 4,
+        "illustrator": "Mauro Dal Bo",
+        "pack_code": "core",
+        "text": "This unit gains 3 command icons while it is damaged.",
+        "title": "Bad Dok",
+        "traits": [
+            "Oddboy",
+            "Nob"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "066",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "What goes up...",
+        "hp": 2,
+        "illustrator": "Jacob Atienza",
+        "pack_code": "core",
+        "text": "Each enemy unit at this planet loses the Flying keyword.",
+        "title": "Rokkitboy",
+        "traits": [
+            "Warrior",
+            "Boyz"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 0,
+        "code": "067",
+        "cost": 1,
+        "faction_code": "orks",
+        "flavor": "'We're Orks, and we was made ta fight and win.” -Ghazghkull Mag Uruk Thraka",
+        "hp": 2,
+        "illustrator": "Jeff Himmelman",
+        "pack_code": "core",
+        "text": "This unit gets +3 ATK while it is at the first planet.",
+        "title": "Goff Boyz",
+        "traits": [
+            "Warrior",
+            "Boyz",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "code": "068",
+        "cost": 1,
+        "faction_code": "orks",
+        "flavor": "The 'Shoota' is the most common type of Ork projectile weapon and has no standard design.",
+        "hp": 1,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "title": "Shoota Mob",
+        "traits": [
+            "Warrior",
+            "Boyz"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 5,
+        "code": "069",
+        "cost": 4,
+        "faction_code": "orks",
+        "hp": 3,
+        "illustrator": "Sam Lamont",
+        "pack_code": "core",
+        "text": "<strong>Reaction:</strong> After this unit declares an attack against an enemy unit, deal 1 damage to a different enemy unit at the same planet.",
+        "title": "Burna Boyz",
+        "traits": [
+            "Warrior",
+            "Boyz"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "070",
+        "cost": 3,
+        "faction_code": "orks",
+        "flavor": "WAAAGH!!!",
+        "illustrator": "Sergio Camarena Bernabeu",
+        "loyal": true,
+        "pack_code": "core",
+        "shields": 2,
+        "text": "Play only during a battle.\n<strong>Combat Action:</strong> Each [ORK] unit you control gets +2 ATK until the end of the battle.",
+        "title": "Battle Cry",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "071",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "They are used for food, as cannon fodder, and sometimes even as ammunition.",
+        "illustrator": "Jeff Porter",
+        "pack_code": "core",
+        "shields": 1,
+        "text": "<strong>Deploy Action:</strong> Put 4 Snotlings tokens into play divided among any number of planets.",
+        "title": "Snotling Attack",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "072",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "“HAHAHA! GO BOOM!” -Gurt, Gretchin Squigherder, last words",
+        "illustrator": "Guillaume Ducos",
+        "pack_code": "core",
+        "shields": 1,
+        "text": "<strong>Action:</strong> Destroy a target support card.",
+        "title": "Squig Bombin",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "073",
+        "cost": 1,
+        "faction_code": "orks",
+        "illustrator": "Alex Konstad",
+        "pack_code": "core",
+        "shields": 1,
+        "text": "Attach to an army unit.\nAttached unit gains Ranged. <em>(Units with Ranged attack during the ranged skirmish at the beginning of a battle.)</em>",
+        "title": "Rokkit Launcha",
+        "traits": [
+            "Wargear",
+            "Weapon"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "074",
+        "cost": 1,
+        "faction_code": "orks",
+        "illustrator": "Toni Justamante Jacobs",
+        "pack_code": "core",
+        "text": "<strong>Combat Action:</strong> Exhaust this support to target a planet. Each player deals 1 indirect damage among the units he controls at that planet.",
+        "title": "Rokkit Launcha",
+        "traits": [
+            "Weapon",
+            "Artillery"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "075",
+        "cost": 1,
+        "faction_code": "orks",
+        "illustrator": "Alex Konstad",
+        "limited": true,
+        "pack_code": "core",
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ORK] unit, exhaust this support to reduce that unit's cost by 1.",
+        "title": "Bigtoof Banna",
+        "traits": [
+            "Upgrade"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
+        "code": "076",
+        "cost": 2,
+        "faction_code": "orks",
+        "flavor": "“There is no way this... affront to the Machine God can function!” - Tech Priest Olagoth",
+        "illustrator": "Mark Molnar",
+        "pack_code": "core",
+        "text": "<strong>Combat Action:</strong> Exhaust this support to move an [ORK] unit you control to the first planet.",
+        "title": "Tellyporta Pad",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
         "card_bonus": 1,
         "code": "175",
         "illustrator": "Wibben",

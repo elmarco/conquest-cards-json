@@ -1,0 +1,15 @@
+    {
+        "card_bonus": X,
+        "code": "",
+        "illustrator": "",
+        "pack_code": "",
+        "planet_symbols": [
+            "Material",
+            "Tech",
+            "Strongpoint"
+        ],
+        "resource_bonus": X,
+        "text": "<strong>Battle:</strong> ",
+        "title": "",
+        "type_code": "planet"
+    }
