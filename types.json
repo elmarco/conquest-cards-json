@@ -22,5 +22,9 @@
     {
         "code": "attachment",
         "name": "Attachment"
+    },
+    {
+        "code": "token",
+        "name": "Token"
     }
 ]

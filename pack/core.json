@@ -1517,5 +1517,62 @@
         "text": "<strong>Battle:</strong> Remove all damage from a target unit.",
         "title": "Iridial",
         "type_code": "planet"
+    },
+    {
+        "atk": 1,
+        "code": "000",
+        "faction_code": "orks",
+        "flavor": "Snotlings are often too stupid to be afraid of anything until it is far too late.",
+        "hp": 1,
+        "illustrator": "Jeff Porter",
+        "pack_code": "core",
+        "title": "Snotlings",
+        "traits": [
+            "Runt"
+        ],
+        "type_code": "token"
+    },
+    {
+        "atk": 1,
+        "code": "000",
+        "faction_code": "astra",
+        "flavor": "“We shall wage this war with undaunted faith and courage. We shall not take one step back.” -Lord General Toshenko",
+        "hp": 2,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "title": "Guardsman",
+        "traits": [
+            "Soldier"
+        ],
+        "type_code": "token"
+    },
+    {
+        "atk": 1,
+        "code": "000",
+        "faction_code": "chaos",
+        "hp": 1,
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "text": "<strong>Interrupt:</strong> When you deploy a Daemon unit, sacrifice this unit to reduce its cost by 1.",
+        "title": "Cultist",
+        "traits": [
+            "Cultist"
+        ],
+        "type_code": "token"
+    },
+    {
+        "atk": 2,
+        "code": "000",
+        "faction_code": "dark",
+        "flavor": "A nightmare wrapped in flesh, hungry for your soul.",
+        "hp": 1,
+        "illustrator": "Brynn Metheney",
+        "pack_code": "core",
+        "text": "No Attachments.",
+        "title": "Khymera",
+        "traits": [
+            "Creature"
+        ],
+        "type_code": "token"
     }
 ]
