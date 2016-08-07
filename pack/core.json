@@ -1775,6 +1775,407 @@
         "type_code": "support"
     },
     {
+        "atk": 1,
+        "cmd": 1,
+        "code": "100",
+        "cost": 2,
+        "faction_code": "dark",
+        "flavor": "Returning from a dangerous dream quest with an entire pack of Khymerae...",
+        "hp": 2,
+        "illustrator": "Mariusz Gandzel",
+        "pack_code": "core",
+        "quantity": 4,
+        "signed": true,
+        "text": "<strong>Reaction:</strong> After this unit enters play, put a Khymera token into play at this planet.",
+        "title": "Kith's Khymeramasters",
+        "traits": [
+            "Warrior",
+            "Beastmaster",
+            "Wych"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "101",
+        "cost": 1,
+        "faction_code": "dark",
+        "flavor": "The Warp-Beasts known as Khymerae form around vivid nightmares, taking the shape of a horrifing beast.",
+        "illustrator": "Mark Bulahao",
+        "pack_code": "core",
+        "quantity": 1,
+        "signed": true,
+        "text": "<strong>Action:</strong> Exhaust this support to move any number of Khymera tokens you control to a target planet.",
+        "title": "Khymera Den",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "102",
+        "cost": 2,
+        "faction_code": "dark",
+        "illustrator": "Nikolay Stoyanov",
+        "pack_code": "core",
+        "quantity": 2,
+        "shields": 1,
+        "signed": true,
+        "text": "<strong>Deploy Action:</strong> Sacrifice a unit to discard 1 card at random from your opponent's hand. Then, draw 2 cards.",
+        "title": "Pact of the Haemonculi",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "103",
+        "cost": 1,
+        "faction_code": "dark",
+        "flavor": "The Beastmaster Bren created these Agonizers to lead packs of Khymerae into battle.",
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 3,
+        "signed": true,
+        "text": "Attach to an army unit.\nAttached unit gets +1 ATK for each Khymera token you control.",
+        "title": "Agonizer of Bren",
+        "traits": [
+            "Wargear",
+            "Weapon"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "atk": 2,
+        "code": "104",
+        "cost": 1,
+        "faction_code": "dark",
+        "hp": 1,
+        "illustrator": "Marius Gandzel",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
+        "title": "Sybarite Marksman",
+        "traits": [
+            "Warrior",
+            "Kabalite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 2,
+        "code": "105",
+        "cost": 2,
+        "faction_code": "dark",
+        "flavor": "Incubi are the elite warriors of the Dark Eldar, trained extensively in the murderous arts. They strive only to kill as often and as quickly as possible.",
+        "hp": 1,
+        "illustrator": "Nicholas Kay",
+        "pack_code": "core",
+        "quantity": 1,
+        "title": "Incubus Warrior",
+        "traits": [
+            "Warrior"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "106",
+        "cost": 4,
+        "faction_code": "dark",
+        "flavor": "No amount of agony can quench his thirst for suffering.",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Action:</strong> Pay 1[RESOURCE] to give this unit +2 ATK until the end of the phase.",
+        "title": "Haemonculus Tormentor",
+        "traits": [
+            "Scholar",
+            "Haemonculus"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "107",
+        "cost": 2,
+        "faction_code": "dark",
+        "flavor": "Packs of vicious Hellions roam the alleys of Commorragh, killing all who cross their path.",
+        "hp": 2,
+        "illustrator": "Adrian Smith",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Flying. <em>(This unit takes half damage from non-Flying units.)</em>",
+        "title": "Hellion Gang",
+        "traits": [
+            "Scout",
+            "Raider"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 2,
+        "code": "108",
+        "cost": 3,
+        "faction_code": "dark",
+        "hp": 3,
+        "illustrator": "Michael Phillippi",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After you play a [DARK ELDAR] event card, pay 1[RESOURCE] to put a Khymera token into play at your HQ.",
+        "title": "Beasthunter Wyches",
+        "traits": [
+            "Warrior",
+            "Wych"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 1,
+        "code": "109",
+        "cost": 3,
+        "faction_code": "dark",
+        "flavor": "Mandrakes will channel the pain of their victims into 'Baleblasts' of cold fire, freezing their foes in place.",
+        "hp": 2,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
+        "title": "Beasthunter Wyches",
+        "traits": [
+            "Warrior"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "110",
+        "cost": 4,
+        "faction_code": "dark",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\nMobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
+        "title": "Vile Raider",
+        "traits": [
+            "Vehicle",
+            "Transport"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "111",
+        "cost": 6,
+        "faction_code": "dark",
+        "hp": 5,
+        "illustrator": "Mauro Dal Bo",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong< Attachments.\nFlying. <em>(This unit takes half damage from non-Flying units.)</em><strong>Reaction:</strong> After this unit damages a non-warlord unit, rout that unit.",
+        "title": "Black Heart Ravager",
+        "traits": [
+            "Vehicle",
+            "Tank",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "code": "112",
+        "cost": 1,
+        "faction_code": "dark",
+        "flavor": "Attacking in a wild storm of knife sharp feathers and razored beaks...",
+        "hp": 1,
+        "illustrator": "Abrar Ajmalt",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No Attachments.\n<strong>Reaction:</strong> After you deploy this unit, discard 1 card at random from your opponent's hand.",
+        "title": "Murder of Razorwings",
+        "traits": [
+            "Creature",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "code": "113",
+        "cost": 2,
+        "faction_code": "dark",
+        "hp": 2,
+        "illustrator": "Ben Peck",
+        "pack_code": "core",
+        "quantity": 2,
+        "text": "<strong>Reaction:</strong> After this unit enters play, return the topmost event card from your discard pile to your hand.",
+        "title": "Coliseum Fighters",
+        "traits": [
+            "Warrior",
+            "Wych"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "code": "114",
+        "cost": 2,
+        "faction_code": "dark",
+        "hp": 2,
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Area Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
+        "title": "Kabalite Strike Force",
+        "traits": [
+            "Warrior",
+            "Kabalite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "115",
+        "cost": 3,
+        "faction_code": "dark",
+        "hp": 3,
+        "illustrator": "Adrian Dadich",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After an enemy unit is deployed at this planet, exhaust it. ",
+        "title": "Syren Zythlex",
+        "traits": [
+            "Warrior",
+            "Wych"
+        ],
+        "type_code": "army",
+        "unique": true
+    },
+    {
+        "code": "116",
+        "cost": 2,
+        "faction_code": "dark",
+        "flavor": "Their screams filled him with delight, their souls filled him with power.",
+        "illustrator": "Mariusz Gandzel",
+        "pack_code": "core",
+        "quantity": 2,
+        "shields": 1,
+        "text": "<strong>Combat Action:</strong> Your opponent must sacrifice an army unit, if able.",
+        "title": "Power from Pain",
+        "traits": [
+            "Power",
+            "Torture"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "117",
+        "cost": 2,
+        "faction_code": "dark",
+        "flavor": "'You think to challenge me, pitiful human? I, the bane of empires, the father of pain? Let me educate you; I need a new pet...” -Archon K'shaic, Kabal of the Bladed Lotus",
+        "illustrator": "Victor P Corbella",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Combat Action:</strong> Rout a target non-unique unit.",
+        "title": "Archon's Terror",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "118",
+        "cost": 0,
+        "faction_code": "dark",
+        "illustrator": "Mauro Dal Bo",
+        "limited": true,
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Action:</strong> Take 1[RESOURCE] from your opponent if he has more resources than you.",
+        "title": "Raid",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "119",
+        "cost": 1,
+        "faction_code": "dark",
+        "flavor": "“Death? My dear plaything, you miss the point.” -Urien Rakarth, Master Haemonculus",
+        "illustrator": "Victor Corbella",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "Attach to an army unit.\nAttached unit gets -2 ATK.",
+        "title": "Suffering",
+        "traits": [
+            "Condition"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "120",
+        "cost": 0,
+        "faction_code": "dark",
+        "illustrator": "JB Casacop",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "Attach to an army unit.\n<strong>Reaction:</strong> After you play a [DARK ELDAR] event card, ready attached unit.",
+        "title": "Hypex Injector",
+        "traits": [
+            "Wargear"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "121",
+        "cost": 1,
+        "faction_code": "dark",
+        "illustrator": "Mark Molnar",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [DARK ELDAR] unit, exhaust this support to reduce that unit's cost by 1.",
+        "title": "Altar of Torment",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
+        "code": "122",
+        "cost": 2,
+        "faction_code": "dark",
+        "illustrator": "Dimitri Bielak",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Action:</strong> Exhaust this support to treat the printed text box of a target army unit as if it were blank (except for <strong>Traits</strong>) until the end of the phase.",
+        "title": "Twisted Laboratory",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
         "code": "169",
         "cost": 0,
         "faction_code": "neutral",
