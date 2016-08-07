@@ -1292,6 +1292,95 @@
         "type_code": "support"
     },
     {
+        "code": "169",
+        "cost": 0,
+        "faction_code": "neutral",
+        "illustrator": "Dimitri Bielak",
+        "pack_code": "core",
+        "shields": 1,
+        "text": "<strong>Interrupt:</strong> When an opponent uses a shield card, exhaust a unique unit you control to cancel that card's shielding effect.",
+        "title": "No Mercy",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "card_bonus": 1,
+        "cmd": 1,
+        "code": "170",
+        "cost": 1,
+        "faction_code": "neutral",
+        "flavor": "Renegades, mercenaries, and outcasts commonly form piratical bands on the fringes of the Imperium, raiding space lanes for plunder and glory.",
+        "hp": 1,
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "title": "Void Pirate",
+        "traits": [
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "cmd": 1,
+        "code": "171",
+        "cost": 1,
+        "faction_code": "neutral",
+        "flavor": "“You might as well throw a traveller through a sea of sharks and tell him to swim home as send him through the warp unprotected.” Fra Safrane, Rogue Trader",
+        "hp": 1,
+        "illustrator": "Andrea Uderzo",
+        "pack_code": "core",
+        "resource_bonus": 1,
+        "title": "Rogue Trader",
+        "traits": [
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "172",
+        "cost": 1,
+        "faction_code": "neutral",
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "shields": 1,
+        "text": "<strong>Reaction:</strong> After an <strong>Elite</strong> unit is destroyed, put it into play from your discard pile at your HQ.",
+        "title": "Fall Back!",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "173",
+        "cost": 1,
+        "faction_code": "neutral",
+        "illustrator": "Mark Molnar",
+        "limited": true,
+        "pack_code": "core",
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Forced Reaction:</strong> After this card enters play, place 4[RESOURCE] on it.\n<strong>Reaction:</strong> After the deploy phase begins, transfer 1[RESOURCE] from this card to your resource pool.",
+        "title": "Promethium Mine",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "174",
+        "cost": 0,
+        "faction_code": "neutral",
+        "illustrator": "Matt Bradbury",
+        "limited": true,
+        "pack_code": "core",
+        "shields": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\nAttach to an army unit.\nAttached unit gains 2 command icons.",
+        "title": "Promotion",
+        "traits": [
+            "Skill"
+        ],
+        "type_code": "attachment"
+    },
+    {
         "card_bonus": 1,
         "code": "175",
         "illustrator": "Wibben",

@@ -43,5 +43,10 @@
         "code": "necrons",
         "color": "000000",
         "name": "Necrons"
+    },
+    {
+        "code": "neutral",
+        "color": "000000",
+        "name": "Neutral"
     }
 ]
