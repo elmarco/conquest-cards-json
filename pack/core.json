@@ -1368,6 +1368,413 @@
         "type_code": "support"
     },
     {
+        "atk": 2,
+        "cmd": 1,
+        "code": "077",
+        "cost": 2,
+        "faction_code": "chaos",
+        "hp": 2,
+        "illustrator": "Mathias Kollros",
+        "pack_code": "core",
+        "quantity": 4,
+        "signed": true,
+        "text": "<strong>Action:</strong> Sacrifice this unit to deal 2 damage to a target non-warlord unit at the same planet.",
+        "title": "Zarathur's Flamers",
+        "traits": [
+            "Daemon",
+            "Tzeentch"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "078",
+        "cost": 1,
+        "faction_code": "chaos",
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "quantity": 1,
+        "signed": true,
+        "text": "<strong>Reaction:</strong> After an enemy unit is destroyed, exhaust this support to return the topmost <strong>Tzeentch</strong> card from your discard pile to your hand.",
+        "title": "Shrine of Warpflame",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "079",
+        "cost": 1,
+        "faction_code": "chaos",
+        "illustrator": "Ben Zweifel",
+        "pack_code": "core",
+        "quantity": 2,
+        "shields": 1,
+        "signed": true,
+        "text": "<strong>Combat Action:</strong> Put a [CHAOS] unit with printed cost 3 or lower into play from your hand at a planet. If that unit is still in play at the end of the phase, sacrifice it. ",
+        "title": "Infernal Gateway",
+        "traits": [
+            "Power",
+            "Tzeentch"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "080",
+        "cost": 0,
+        "faction_code": "chaos",
+        "flavor": "Both a gift and a curse.",
+        "illustrator": "Mark Bulahao",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 3,
+        "signed": true,
+        "text": "Attach to an army unit.\n<strong>Interrupt:</strong> When attached unit leaves play, deal 1 damage to each enemy unit at this planet.",
+        "title": "Mark of Chaos",
+        "traits": [
+            "Curse"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "atk": 4,
+        "cmd": 1,
+        "code": "081",
+        "cost": 2,
+        "faction_code": "chaos",
+        "flavor": "The Alpha legion sows Chaos across the galaxy to further their heretical plots to unknown ends. It is rare to see the members of the Legion gather in large numbers.",
+        "hp": 1,
+        "illustrator": "Matt Bradbury",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "title": "Alpha Legion Infiltrator",
+        "traits": [
+            "Scout",
+            "Alpha Legion"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 9,
+        "cmd": 1,
+        "code": "082",
+        "cost": 5,
+        "faction_code": "chaos",
+        "flavor": "These Chaos Space Marines give themselves willingly to the powers of Chaos, their bodies taken over in times of battle and twisted into horrible forms.",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "title": "Possessed",
+        "traits": [
+            "Daemon",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "083",
+        "cost": 1,
+        "faction_code": "chaos",
+        "flavor": "“I gladly give my life for the machinations of Tzeentch.” -Cultist of the Splintered Path",
+        "hp": 1,
+        "illustrator": "Ilich Henriquez",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Interrupt:</strong> When you deploy a <strong>Daemon</strong> unit, sacrifice this unit to reduce its cost by 2.",
+        "title": "Splintered Path Acolyte",
+        "traits": [
+            "Cultist",
+            "Tzeentch"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "084",
+        "cost": 3,
+        "faction_code": "chaos",
+        "flavor": "'Blood for the Blood God!” - World Eaters' Battle Cry",
+        "hp": 4,
+        "illustrator": "Hector Ortiz",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Brutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
+        "title": "Splintered Path Acolyte",
+        "traits": [
+            "Warrior",
+            "Khorne",
+            "World Eaters"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 4,
+        "code": "085",
+        "cost": 5,
+        "faction_code": "chaos",
+        "hp": 4,
+        "illustrator": "Pascal Quidault",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\nArea Effect (3). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
+        "title": "Vicious Bloodletter",
+        "traits": [
+            "Daemon",
+            "Khorne",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 2,
+        "code": "086",
+        "cost": 3,
+        "faction_code": "chaos",
+        "flavor": "There is no escape from the gods of Chaos, for they lurk in the hearts of all mortals.",
+        "hp": 4,
+        "illustrator": "Jacob Atienza",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Each army unit at this planet cannot retreat from battle.",
+        "title": "Umbral Preacher",
+        "traits": [
+            "Cultist",
+            "Priest"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 8,
+        "cmd": 3,
+        "code": "087",
+        "cost": 8,
+        "faction_code": "chaos",
+        "hp": 8,
+        "illustrator": "Sam Lamont",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-flying units.)</em>",
+        "title": "Black Legion Heldrake",
+        "traits": [
+            "Daemon",
+            "Black Legion",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 1,
+        "code": "088",
+        "cost": 5,
+        "faction_code": "chaos",
+        "hp": 6,
+        "illustrator": "Dimitri Bielak",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "No Attachments.\n<strong>Action:</strong> Sacrifice a <strong>Cultist</strong> unit to remove all damage from this unit.",
+        "title": "Ravenous Flesh Hounds",
+        "traits": [
+            "Daemon",
+            "Khorne",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "089",
+        "cost": 4,
+        "faction_code": "chaos",
+        "flavor": "“I shall reap a terrible bounty from the death that I sow in your name. Father Nurgle... “ -Typhus the Traveller, Herald of Nurgle",
+        "hp": 4,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "This unit gets +1 ATK for each unit in your opponent's discard pile.",
+        "title": "Virulent Plague Squad",
+        "traits": [
+            "Warrior",
+            "Death Guard",
+            "Nurgle"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 2,
+        "code": "090",
+        "cost": 2,
+        "faction_code": "chaos",
+        "flavor": "“Sanity is for the weak. Chaos is eternal.” -Cultist Chant",
+        "hp": 2,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 2,
+        "title": "Chaos Fanatics",
+        "traits": [
+            "Cultist"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 4,
+        "cmd": 2,
+        "code": "091",
+        "cost": 6,
+        "faction_code": "chaos",
+        "hp": 6,
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "quantity": 2,
+        "title": "Soul Grinder",
+        "traits": [
+            "Daemon",
+            "War Engine",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "092",
+        "cost": 3,
+        "faction_code": "chaos",
+        "flavor": "“Join me and serve the Prince of Pleasure, or die beneath my blade!” -Xavaes Split-Tongue",
+        "hp": 3,
+        "illustrator": "Sam Flegal",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After an enemy unit at this planet is destroyed, put a Cultist token into play at your HQ.",
+        "title": "Xavaes Split-Tongue",
+        "traits": [
+            "Warrior",
+            "Slaneesh"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "093",
+        "cost": 3,
+        "faction_code": "chaos",
+        "flavor": "In the end, the Warp will consume all things.",
+        "illustrator": "Alexandr Elichev",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Combat Action:</strong> Deal 2 damage to each unit without any attachments at a target planet or HQ.",
+        "title": "Warpstorm",
+        "traits": [
+            "Power"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "094",
+        "faction_code": "chaos",
+        "illustrator": "Matt Bradbury",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "<strong>Action:</strong> Deal X damage to a target non-warlord unit.",
+        "title": "Tzeentch's Firestorm",
+        "traits": [
+            "Power",
+            "Tzeentch"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "095",
+        "cost": 0,
+        "faction_code": "chaos",
+        "flavor": "“The hidden glories of the Immaterium lie all around us, waiting for us to notice and claim them as our birthright” -Demagogue Xentries",
+        "illustrator": "John Dotegowski",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Deploy Action:</strong> Put 2 Cultist tokens into play at your HQ.",
+        "title": "Tzeentch's Firestorm",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "096",
+        "cost": 2,
+        "faction_code": "chaos",
+        "flavor": "“Impurity shall be out armor, and hate shall be our weapon.” - Acrus The Defiled, Black Legion",
+        "illustrator": "Jacob Atienza",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "Attach to an army unit.\nAttached unit gets +2 ATK and +2 HP.",
+        "title": "Rune-Encrusted Armor",
+        "traits": [
+            "Wargear",
+            "Armor"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "097",
+        "cost": 1,
+        "faction_code": "chaos",
+        "illustrator": "Scott Purdy",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "Ambush. <em>(You may deploy this card during the combat phase.)</em>\nAttach to an army unit.\n<strong>Forced Interrupt:</strong> When attached unit exhausts, deal it 1 damage.",
+        "title": "Dire Mutation",
+        "traits": [
+            "Curse",
+            "Tzeentch"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "098",
+        "cost": 1,
+        "faction_code": "chaos",
+        "illustrator": "Jacob Atienza",
+        "limited": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [CHAOS] unit, exhaust this support to reduce that unit's cost by 1.",
+        "title": "Fortress of Madness",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
+        "code": "099",
+        "cost": 0,
+        "faction_code": "chaos",
+        "illustrator": "Matt Bradbury",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Reaction:</strong> After a <strong>Cultist</strong> or <strong>Daemon</strong> unit you control leaves play, exhaust this support to reveal the top card of your deck. If that card is a [CHAOS] unit, add it to your hand.",
+        "title": "Murder Cogitator",
+        "traits": [
+            "Upgrade"
+        ],
+        "type_code": "support"
+    },
+    {
         "code": "169",
         "cost": 0,
         "faction_code": "neutral",
