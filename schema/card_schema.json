@@ -1,7 +1,7 @@
 {
     "additionalProperties": false,
     "properties": {
-        "area-effect": {
+        "area_effect": {
             "oneOf": [
                 {
                     "minimum": 1,
@@ -68,7 +68,7 @@
             ]
         },
         "code": {
-            "pattern": "^[0-9]{3}$",
+            "pattern": "^[0-9]{5}$",
             "type": "string"
         },
         "cost": {
@@ -144,6 +144,10 @@
             "minItems": 1,
             "type": "array",
             "uniqueItems": true
+        },
+        "position": {
+            "minimum": 1,
+            "type": "integer"
         },
         "quantity": {
             "minimum": 1,
@@ -223,6 +227,7 @@
     "required": [
         "code",
         "illustrator",
+        "position",
         "quantity",
         "title",
         "type_code"
