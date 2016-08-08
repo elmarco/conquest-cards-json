@@ -242,6 +242,7 @@
         "type_code": "army"
     },
     {
+        "area-effect": 1,
         "atk": 1,
         "cmd": 1,
         "code": "013",
@@ -249,6 +250,9 @@
         "faction_code": "space",
         "hp": 3,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "area-effect"
+        ],
         "pack_code": "core",
         "quantity": 2,
         "text": "Area Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
@@ -290,7 +294,7 @@
         "pack_code": "core",
         "quantity": 2,
         "text": "While this unit is ready, it gains, “<strong>Interrupt:</strong> When this unit is assigned damage, prevent 1 of that damage.”",
-        "title": " Blood Angels Veterans ",
+        "title": " Blood Angels Veterans",
         "traits": [
             "Soldier",
             "Blood Angels"
@@ -298,6 +302,7 @@
         "type_code": "army"
     },
     {
+        "area-effect": 2,
         "atk": 3,
         "cmd": 1,
         "code": "016",
@@ -305,6 +310,9 @@
         "faction_code": "space",
         "hp": 3,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "area-effect"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Area Effect (2). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
@@ -382,6 +390,9 @@
         "flavor": "Many Space Marine recruits leap into action with little regard for themselves, desiring to prove themselves to their battle-brothers.",
         "hp": 1,
         "illustrator": "Nicholas Gregory",
+        "keywords": [
+            "ambush"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ambush. <em>(You may deploy this card during the combat phase.)</em>",
@@ -398,7 +409,7 @@
         "code": "021",
         "cost": 3,
         "faction_code": "space",
-        "flavor": "Trained by the Adeptus Mechanicus on Mars, Techmarines are the stewards of their chapter's weaponry and vehicles. ",
+        "flavor": "Trained by the Adeptus Mechanicus on Mars, Techmarines are the stewards of their chapter's weaponry and vehicles.",
         "hp": 3,
         "illustrator": "GW Design Studio",
         "pack_code": "core",
@@ -419,6 +430,9 @@
         "faction_code": "space",
         "hp": 3,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "flying"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-flying units.)</em>",
@@ -435,7 +449,7 @@
         "code": "023",
         "cost": 5,
         "faction_code": "space",
-        "flavor": "“Where they stand, non shall pass.” -Grand Master Belial ",
+        "flavor": "“Where they stand, non shall pass.” -Grand Master Belial",
         "hp": 9,
         "illustrator": "Aidan Wilson",
         "loyal": true,
@@ -535,7 +549,9 @@
         "cost": 1,
         "faction_code": "space",
         "illustrator": "Alex Drummond",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. (Limit one Limited card per round.)\n<strong>Interrupt:</strong> When you deploy a [SPACE MARINE] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -572,7 +588,7 @@
         "quantity": 4,
         "signed": true,
         "text": "<strong>Interrupt:</strong> When this unit leaves play, put a Guardsman token into play at the same planet.",
-        "title": " Straken's Command Squad ",
+        "title": " Straken's Command Squad",
         "traits": [
             "Soldier",
             "Catachan"
@@ -588,8 +604,8 @@
         "pack_code": "core",
         "quantity": 1,
         "signed": true,
-        "text": "<strong>Reaction:</strong> After you win a command struggle, put a Guardsman token into play at that planet. ",
-        "title": " Omega Zero Command ",
+        "text": "<strong>Reaction:</strong> After you win a command struggle, put a Guardsman token into play at that planet.",
+        "title": " Omega Zero Command",
         "traits": [
             "Location"
         ],
@@ -635,6 +651,9 @@
         "faction_code": "astra",
         "hp": 1,
         "illustrator": "Ilich Henriquez",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 2,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
@@ -653,6 +672,9 @@
         "faction_code": "astra",
         "hp": 3,
         "illustrator": "Dan Scott",
+        "keywords": [
+            "ranged"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -703,6 +725,7 @@
         "type_code": "army"
     },
     {
+        "area-effect": 1,
         "atk": 3,
         "cmd": 2,
         "code": "039",
@@ -710,6 +733,9 @@
         "faction_code": "astra",
         "hp": 3,
         "illustrator": "Sam Lamont",
+        "keywords": [
+            "area-effect"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nArea Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
@@ -729,6 +755,9 @@
         "faction_code": "astra",
         "hp": 4,
         "illustrator": "Matt Bradbury",
+        "keywords": [
+            "flying"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-flying units.)</em>",
@@ -750,7 +779,7 @@
         "illustrator": "Ameen Naksewee",
         "pack_code": "core",
         "quantity": 1,
-        "text": "Immune to enemy events. ",
+        "text": "Immune to enemy events.",
         "title": "Stalwart Ogryn",
         "traits": [
             "Warrior",
@@ -842,7 +871,7 @@
         "illustrator": "Michal Ivan",
         "pack_code": "core",
         "quantity": 1,
-        "text": "<strong>Interrupt:</strong> When a <strong>Soldier</strong> or <strong>Warrior</strong> unit you control leaves play from a planet, put this unit into play from your hand at the same planet. ",
+        "text": "<strong>Interrupt:</strong> When a <strong>Soldier</strong> or <strong>Warrior</strong> unit you control leaves play from a planet, put this unit into play from your hand at the same planet.",
         "title": "Elysian Assault Team",
         "traits": [
             "Soldier",
@@ -870,7 +899,7 @@
         "code": "048",
         "cost": 0,
         "faction_code": "astra",
-        "flavor": "“Let's see them charge through this!” -Corporal Valz ",
+        "flavor": "“Let's see them charge through this!” -Corporal Valz",
         "illustrator": "Erfian Asafat",
         "pack_code": "core",
         "quantity": 1,
@@ -920,7 +949,9 @@
         "cost": 1,
         "faction_code": "astra",
         "illustrator": "Erfian Asafat",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ASTRA MILITARUM] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -1113,6 +1144,9 @@
         "faction_code": "orks",
         "hp": 5,
         "illustrator": "Ameen Naksewee",
+        "keywords": [
+            "brutal"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -1133,6 +1167,9 @@
         "flavor": "“Get 'em boyz! Dakka Dakka dakka!” -Rotgrob, Ork Strategist",
         "hp": 5,
         "illustrator": "Clint Langley",
+        "keywords": [
+            "brutal"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -1341,7 +1378,9 @@
         "cost": 1,
         "faction_code": "orks",
         "illustrator": "Alex Konstad",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ORK] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -1410,7 +1449,7 @@
         "quantity": 2,
         "shields": 1,
         "signed": true,
-        "text": "<strong>Combat Action:</strong> Put a [CHAOS] unit with printed cost 3 or lower into play from your hand at a planet. If that unit is still in play at the end of the phase, sacrifice it. ",
+        "text": "<strong>Combat Action:</strong> Put a [CHAOS] unit with printed cost 3 or lower into play from your hand at a planet. If that unit is still in play at the end of the phase, sacrifice it.",
         "title": "Infernal Gateway",
         "traits": [
             "Power",
@@ -1500,6 +1539,9 @@
         "flavor": "'Blood for the Blood God!” - World Eaters' Battle Cry",
         "hp": 4,
         "illustrator": "Hector Ortiz",
+        "keywords": [
+            "brutal"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Brutal. <em>(This unit gets +1 ATK for each damage on it.)</em>",
@@ -1512,12 +1554,16 @@
         "type_code": "army"
     },
     {
+        "area-effect": 3,
         "atk": 4,
         "code": "085",
         "cost": 5,
         "faction_code": "chaos",
         "hp": 4,
         "illustrator": "Pascal Quidault",
+        "keywords": [
+            "area-effect"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -1557,6 +1603,9 @@
         "faction_code": "chaos",
         "hp": 8,
         "illustrator": "Sam Lamont",
+        "keywords": [
+            "flying"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -1577,6 +1626,9 @@
         "faction_code": "chaos",
         "hp": 6,
         "illustrator": "Dimitri Bielak",
+        "keywords": [
+            "no-attachments"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No Attachments.\n<strong>Action:</strong> Sacrifice a <strong>Cultist</strong> unit to remove all damage from this unit.",
@@ -1733,6 +1785,9 @@
         "cost": 1,
         "faction_code": "chaos",
         "illustrator": "Scott Purdy",
+        "keywords": [
+            "ambush"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "shields": 1,
@@ -1749,7 +1804,9 @@
         "cost": 1,
         "faction_code": "chaos",
         "illustrator": "Jacob Atienza",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [CHAOS] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -1852,6 +1909,9 @@
         "faction_code": "dark",
         "hp": 1,
         "illustrator": "Marius Gandzel",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
@@ -1907,6 +1967,9 @@
         "flavor": "Packs of vicious Hellions roam the alleys of Commorragh, killing all who cross their path.",
         "hp": 2,
         "illustrator": "Adrian Smith",
+        "keywords": [
+            "flying"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Flying. <em>(This unit takes half damage from non-Flying units.)</em>",
@@ -1944,6 +2007,9 @@
         "flavor": "Mandrakes will channel the pain of their victims into 'Baleblasts' of cold fire, freezing their foes in place.",
         "hp": 2,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
@@ -1961,6 +2027,9 @@
         "faction_code": "dark",
         "hp": 4,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "mobile"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nMobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
@@ -1979,6 +2048,9 @@
         "faction_code": "dark",
         "hp": 5,
         "illustrator": "Mauro Dal Bo",
+        "keywords": [
+            "flying"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -1999,6 +2071,9 @@
         "flavor": "Attacking in a wild storm of knife sharp feathers and razored beaks...",
         "hp": 1,
         "illustrator": "Abrar Ajmalt",
+        "keywords": [
+            "no-attachments"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2028,12 +2103,16 @@
         "type_code": "army"
     },
     {
+        "area-effect": 1,
         "atk": 2,
         "code": "114",
         "cost": 2,
         "faction_code": "dark",
         "hp": 2,
         "illustrator": "Ameen Naksewee",
+        "keywords": [
+            "area-effect"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Area Effect (1). <em>(When this unit attacks it may instead deal its Area Effect damage to each enemy unit at this planet.)</em>",
@@ -2055,7 +2134,7 @@
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
-        "text": "<strong>Reaction:</strong> After an enemy unit is deployed at this planet, exhaust it. ",
+        "text": "<strong>Reaction:</strong> After an enemy unit is deployed at this planet, exhaust it.",
         "title": "Syren Zythlex",
         "traits": [
             "Warrior",
@@ -2102,7 +2181,9 @@
         "cost": 0,
         "faction_code": "dark",
         "illustrator": "Mauro Dal Bo",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2151,6 +2232,9 @@
         "cost": 1,
         "faction_code": "dark",
         "illustrator": "Mark Molnar",
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [DARK ELDAR] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -2233,6 +2317,9 @@
         "cost": 0,
         "faction_code": "eldar",
         "illustrator": "Mariusz Gandzel",
+        "keywords": [
+            "mobile"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "shields": 3,
@@ -2272,6 +2359,9 @@
         "faction_code": "eldar",
         "hp": 2,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
@@ -2328,6 +2418,9 @@
         "faction_code": "eldar",
         "hp": 5,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "mobile"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "No <strong>Wargear</strong> Attachments.\nMobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
@@ -2345,6 +2438,9 @@
         "faction_code": "eldar",
         "hp": 5,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "flying"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2366,6 +2462,9 @@
         "flavor": "These wraithbone shells are animated by the Spirit Stone of a deceased Eldar warrior. They are called upon only in times of great need.",
         "hp": 2,
         "illustrator": "Erfian Asafat",
+        "keywords": [
+            "armorbane"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2528,7 +2627,7 @@
         "pack_code": "core",
         "quantity": 1,
         "shields": 2,
-        "text": "<strong>Action:</strong> Put the topmost [ELDAR] unit from your discard pile into play at a planet. If that unit is still in play at the end of the phase, discard it. ",
+        "text": "<strong>Action:</strong> Put the topmost [ELDAR] unit from your discard pile into play at a planet. If that unit is still in play at the end of the phase, discard it.",
         "title": "Gift of Isha",
         "traits": [
             "Power",
@@ -2557,7 +2656,9 @@
         "cost": 1,
         "faction_code": "eldar",
         "illustrator": "GW Design Studio",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy an [ELDAR] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -2661,7 +2762,9 @@
         "flavor": "Tau drones can scour a battlefield in moments, detecting enemy units and pinpointing vulnerable formations.",
         "hp": 1,
         "illustrator": "Erfian Asafat",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2681,6 +2784,9 @@
         "faction_code": "tau",
         "hp": 2,
         "illustrator": "Jason Juta",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
@@ -2717,6 +2823,9 @@
         "flavor": "Tau of the Air Caste are the pilots of the Tau fleets, spending most of their lives on space stations or traveling on ships.",
         "hp": 1,
         "illustrator": "Ameen Naksewee",
+        "keywords": [
+            "mobile"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Mobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
@@ -2770,6 +2879,9 @@
         "faction_code": "tau",
         "hp": 5,
         "illustrator": "GW Design Studio",
+        "keywords": [
+            "mobile"
+        ],
         "loyal": true,
         "pack_code": "core",
         "quantity": 1,
@@ -2826,6 +2938,9 @@
         "faction_code": "tau",
         "hp": 3,
         "illustrator": "Michael Phillipi",
+        "keywords": [
+            "ranged"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)<em>",
@@ -2962,7 +3077,9 @@
         "cost": 1,
         "faction_code": "tau",
         "illustrator": "Erfian Asafat",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 1,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [TAU] unit, exhaust this support to reduce that unit's cost by 1.",
@@ -3056,7 +3173,9 @@
         "cost": 1,
         "faction_code": "neutral",
         "illustrator": "Mark Molnar",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 2,
         "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Forced Reaction:</strong> After this card enters play, place 4[RESOURCE] on it.\n<strong>Reaction:</strong> After the deploy phase begins, transfer 1[RESOURCE] from this card to your resource pool.",
@@ -3071,7 +3190,9 @@
         "cost": 0,
         "faction_code": "neutral",
         "illustrator": "Matt Bradbury",
-        "limited": true,
+        "keywords": [
+            "limited"
+        ],
         "pack_code": "core",
         "quantity": 2,
         "shields": 1,
@@ -3088,12 +3209,12 @@
         "illustrator": "Wibben",
         "pack_code": "core",
         "planet_symbols": [
-            "Tech",
-            "Strongpoint"
+            "tech",
+            "strongpoint"
         ],
         "quantity": 1,
         "resource_bonus": 1,
-        "text": "<strong>Battle:</strong> Move a non-warlord unit you control to a planet of your choice. ",
+        "text": "<strong>Battle:</strong> Move a non-warlord unit you control to a planet of your choice.",
         "title": "Plannum",
         "type_code": "planet"
     },
@@ -3103,8 +3224,8 @@
         "illustrator": "Mark Molnar",
         "pack_code": "core",
         "planet_symbols": [
-            "Material",
-            "Tech"
+            "material",
+            "tech"
         ],
         "quantity": 1,
         "resource_bonus": 1,
@@ -3118,7 +3239,7 @@
         "illustrator": "Mark Molnar",
         "pack_code": "core",
         "planet_symbols": [
-            "Tech"
+            "tech"
         ],
         "quantity": 1,
         "resource_bonus": 0,
@@ -3132,7 +3253,7 @@
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
         "planet_symbols": [
-            "Tech"
+            "tech"
         ],
         "quantity": 1,
         "resource_bonus": 0,
@@ -3146,8 +3267,8 @@
         "illustrator": "Sam Burley",
         "pack_code": "core",
         "planet_symbols": [
-            "Material",
-            "Tech"
+            "material",
+            "tech"
         ],
         "quantity": 1,
         "resource_bonus": 1,
@@ -3161,8 +3282,8 @@
         "illustrator": "Mauro Dal Bo",
         "pack_code": "core",
         "planet_symbols": [
-            "Material",
-            "Strongpoint"
+            "material",
+            "strongpoint"
         ],
         "quantity": 1,
         "resource_bonus": 1,
@@ -3176,7 +3297,7 @@
         "illustrator": "Julian Kok",
         "pack_code": "core",
         "planet_symbols": [
-            "Strongpoint"
+            "strongpoint"
         ],
         "quantity": 1,
         "resource_bonus": 2,
@@ -3190,7 +3311,7 @@
         "illustrator": "Matt Bradbury",
         "pack_code": "core",
         "planet_symbols": [
-            "Material"
+            "material"
         ],
         "quantity": 1,
         "resource_bonus": 2,
@@ -3204,9 +3325,9 @@
         "illustrator": "Mauro Dal Bo",
         "pack_code": "core",
         "planet_symbols": [
-            "Material",
-            "Tech",
-            "Strongpoint"
+            "material",
+            "tech",
+            "strongpoint"
         ],
         "quantity": 1,
         "resource_bonus": 1,
@@ -3220,9 +3341,9 @@
         "illustrator": "Mark Molnar",
         "pack_code": "core",
         "planet_symbols": [
-            "Material",
-            "Tech",
-            "Strongpoint"
+            "material",
+            "tech",
+            "strongpoint"
         ],
         "quantity": 1,
         "resource_bonus": 1,
@@ -3282,6 +3403,9 @@
         "flavor": "A nightmare wrapped in flesh, hungry for your soul.",
         "hp": 1,
         "illustrator": "Brynn Metheney",
+        "keywords": [
+            "no-attachments"
+        ],
         "pack_code": "core",
         "quantity": 10,
         "text": "No Attachments.",

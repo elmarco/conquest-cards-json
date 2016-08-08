@@ -1,6 +1,17 @@
 {
     "additionalProperties": false,
     "properties": {
+        "area-effect": {
+            "oneOf": [
+                {
+                    "minimum": 1,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
         "atk": {
             "oneOf": [
                 {
@@ -94,8 +105,25 @@
             "pattern": ".+",
             "type": "string"
         },
-        "limited": {
-            "type": "boolean"
+        "keywords": {
+            "items": {
+                "enum": [
+                    "ambush",
+                    "area-effect",
+                    "armorbane",
+                    "bloodied",
+                    "brutal",
+                    "flying",
+                    "immune",
+                    "limited",
+                    "mobile",
+                    "no-attachments",
+                    "ranged"
+                ]
+            },
+            "minItems": 1,
+            "type": "array",
+            "uniqueItems": true
         },
         "loyal": {
             "type": "boolean"
@@ -107,7 +135,11 @@
         },
         "planet_symbols": {
             "items": {
-                "type": "string"
+                "enum": [
+                    "material",
+                    "tech",
+                    "strongpoint"
+                ]
             },
             "minItems": 1,
             "type": "array",
