@@ -2586,6 +2586,408 @@
         "unique": true
     },
     {
+        "atk": 2,
+        "cmd": 1,
+        "code": "146",
+        "cost": 2,
+        "faction_code": "tau",
+        "hp": 2,
+        "illustrator": "Mark Bulahao",
+        "pack_code": "core",
+        "quantity": 4,
+        "signed": true,
+        "text": "This card may enter play as an attachment with the text, “Attach to a non-<strong>Vehicle</strong> army unit. Attached unit gets +2 ATK and +2 HP.”",
+        "title": "Shadowsun's Stealth Cadre",
+        "traits": [
+            "Soldier",
+            "Pilot"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "147",
+        "cost": 1,
+        "faction_code": "tau",
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "quantity": 1,
+        "signed": true,
+        "text": "<strong>Interrupt:</strong> When your opponent triggers an ability that targets a unit you control with 1 or more attachments, exhaust this support to cancel its effects.",
+        "title": "Communications Relay",
+        "traits": [
+            "Upgrade"
+        ],
+        "type_code": "support"
+    },
+    {
+        "code": "148",
+        "cost": 0,
+        "faction_code": "tau",
+        "flavor": "The Tau are extremely adaptable, even in battle, quickly moving from front to front as needed.",
+        "illustrator": "Erfian Asafat",
+        "pack_code": "core",
+        "quantity": 2,
+        "shields": 1,
+        "signed": true,
+        "text": "<strong>Action:</strong> Exhaust an army unit with 1 or more attachments to move it to a planet of your choice.",
+        "title": "Squadron Redeployment",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "149",
+        "cost": 0,
+        "faction_code": "tau",
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 3,
+        "signed": true,
+        "text": "Attach to a unit.\nAttached unit gets +1 ATK.\n<strong>Action:</strong> Pay 1[RESOURCE] to attach this card to a different unit.",
+        "title": "Command-link Drone",
+        "traits": [
+            "Drone"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "atk": 0,
+        "cmd": 2,
+        "code": "150",
+        "cost": 0,
+        "faction_code": "tau",
+        "flavor": "Tau drones can scour a battlefield in moments, detecting enemy units and pinpointing vulnerable formations.",
+        "hp": 1,
+        "illustrator": "Erfian Asafat",
+        "limited": true,
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>",
+        "title": "Recon Drone",
+        "traits": [
+            "Drone",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "151",
+        "cost": 1,
+        "faction_code": "tau",
+        "hp": 2,
+        "illustrator": "Jason Juta",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
+        "title": "Vior'la Marksman",
+        "traits": [
+            "Scout",
+            "Shas'la"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "code": "152",
+        "cost": 3,
+        "faction_code": "tau",
+        "flavor": "After battle, the Kroot will consume the flesh of their enemies as well as their own dead, perserving their warrior spirits.",
+        "hp": 3,
+        "illustrator": "Jon Bosco",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Interrupt:</strong> When this unit is destroyed, gain 3[RESOURCE].",
+        "title": "Carnivore Pack",
+        "traits": [
+            "Warrior",
+            "Kroot"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "code": "153",
+        "cost": 2,
+        "faction_code": "tau",
+        "flavor": "Tau of the Air Caste are the pilots of the Tau fleets, spending most of their lives on space stations or traveling on ships.",
+        "hp": 1,
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Mobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
+        "title": "Vash'ya Trailblazer",
+        "traits": [
+            "Scout",
+            "Pilot"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "code": "154",
+        "cost": 3,
+        "faction_code": "tau",
+        "hp": 5,
+        "illustrator": "Damien Mammoliti",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Interrupt:</strong> When an enemy unit would declare an attack against a unit you control at this planet, declare this unit as the defender instead.",
+        "title": "Vash'ya Trailblazer",
+        "traits": [
+            "Soldier",
+            "Shas'la"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "code": "155",
+        "cost": 4,
+        "faction_code": "tau",
+        "flavor": "Fire Warriors are outfitted with a number of advanced Tau technologies, giving them a distinct edge on the battlefield.",
+        "hp": 5,
+        "illustrator": "Ameen Naksewee",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "This unit gets +1 ATK for each attachment on it.",
+        "title": "Fire Warrior Strike Team",
+        "traits": [
+            "Soldier",
+            "Shas'la"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 3,
+        "code": "156",
+        "cost": 5,
+        "faction_code": "tau",
+        "hp": 5,
+        "illustrator": "GW Design Studio",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Mobile. <em>(At the beginning of the combat phase, this unit may move to an adjacent planet.)</em>",
+        "title": "Crisis Battle Guard",
+        "traits": [
+            "Soldier",
+            "Pilot",
+            "Elite"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 1,
+        "cmd": 1,
+        "code": "157",
+        "cost": 1,
+        "faction_code": "tau",
+        "hp": 1,
+        "illustrator": "Mark Bulahao",
+        "pack_code": "core",
+        "quantity": 2,
+        "text": "<strong>Reaction:</strong> After this unit enters play, search the top 6 cards of your deck for an attachment or <strong>Drone</strong> card. Reveal it, add it to your hand, and place the remaining cards on the bottom of your deck in any order.",
+        "title": "Earth Caste Technician",
+        "traits": [
+            "Scholar",
+            "Ally"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 1,
+        "code": "158",
+        "cost": 2,
+        "faction_code": "tau",
+        "hp": 2,
+        "illustrator": "Ameen Naksewee",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "You may deploy this card as a <strong>Drone</strong> attachment with the text “Attach to a non-<strong>Vehicle</strong> army unit. Attached unit gains Area Effect (2).”",
+        "title": "Gun Drones",
+        "traits": [
+            "Drone"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 3,
+        "cmd": 1,
+        "code": "159",
+        "cost": 4,
+        "faction_code": "tau",
+        "hp": 3,
+        "illustrator": "Michael Phillipi",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)<em>",
+        "title": "Stingwing Swarm",
+        "traits": [
+            "Warrior",
+            "Vespid"
+        ],
+        "type_code": "army"
+    },
+    {
+        "atk": 2,
+        "cmd": 2,
+        "code": "160",
+        "cost": 3,
+        "faction_code": "tau",
+        "flavor": "“We draw the line here! Let them advance no further!” -Fireblade Kais'vre",
+        "hp": 3,
+        "illustrator": "GW Design Studio",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Interrupt:</strong> When you use a [TAU] card as a shield card at this planet, it gains 1 shield icon.",
+        "title": "Fireblade Kais'Vre",
+        "traits": [
+            "Soldier",
+            "Hero"
+        ],
+        "type_code": "army",
+        "unique": true
+    },
+    {
+        "atk": 4,
+        "cmd": 1,
+        "code": "161",
+        "cost": 3,
+        "faction_code": "tau",
+        "flavor": "The Tau Earth Caste is constantly testing new technology at the frontline of Tau expansion.",
+        "hp": 2,
+        "illustrator": "GW Design Studio",
+        "pack_code": "core",
+        "quantity": 2,
+        "text": "No <strong>Wargear</strong> Attachments.\n<strong>Reaction:</strong> After this unit commits to a planet, ready it.",
+        "title": "Experimental Devilfish",
+        "traits": [
+            "Vehicle",
+            "Transport"
+        ],
+        "type_code": "army"
+    },
+    {
+        "code": "162",
+        "cost": 1,
+        "faction_code": "tau",
+        "flavor": "When faced with greater numbers, the Tau military tactic of Kauyon instructs a commander to ambush their foe by luring them into the open.",
+        "illustrator": "Ilich Henriquez",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Action:</strong> Move a target attachment to another eligible unit controlled by the same player.",
+        "title": "Even the Odds",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "163",
+        "cost": 1,
+        "faction_code": "tau",
+        "flavor": "When a planet refuses to join the Tau in the Greater Good, the Tau respond by crippling the planet's major industries before giving them a chance to reconsider.",
+        "illustrator": "Mark Molnar",
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "<strong>Action:</strong> Destroy a target Limited card.",
+        "title": "Calculated Strike",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "164",
+        "cost": 2,
+        "faction_code": "tau",
+        "illustrator": "Mark Bulahao",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "<strong>Deploy Action:</strong> Return a target non-<strong>Elite</strong> army unit to its owner's hand.",
+        "title": "Deception",
+        "traits": [
+            "Tactic"
+        ],
+        "type_code": "event"
+    },
+    {
+        "code": "165",
+        "cost": 2,
+        "faction_code": "tau",
+        "illustrator": "Matt Bradbury",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 2,
+        "text": "Attach to an army unit. Limit 1 per unit.\n<strong>Reaction:</strong> After attached unit is damaged by an attack, deal 2 damage to the attacker.",
+        "title": "Repulsor Impact Field",
+        "traits": [
+            "Wargear"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "166",
+        "cost": 1,
+        "faction_code": "tau",
+        "flavor": "Tau ion weapons can vaporize anything from flesh to ceramite with ease, breaking them apart at the atomic level.",
+        "illustrator": "Erfian Asafat",
+        "loyal": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "shields": 1,
+        "text": "Attach to an army unit.\nAttached unit gets +3 ATK.",
+        "title": "Repulsor Impact Field",
+        "traits": [
+            "Weapon"
+        ],
+        "type_code": "attachment"
+    },
+    {
+        "code": "167",
+        "cost": 1,
+        "faction_code": "tau",
+        "illustrator": "Erfian Asafat",
+        "limited": true,
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "Limited. <em>(Limit one Limited card per round.)</em>\n<strong>Interrupt:</strong> When you deploy a [TAU] unit, exhaust this support to reduce that unit's cost by 1.",
+        "title": "Frontline Launch Bay",
+        "traits": [
+            "Location"
+        ],
+        "type_code": "support",
+        "unique": true
+    },
+    {
+        "code": "168",
+        "cost": 2,
+        "faction_code": "tau",
+        "illustrator": "Nicholas Gregory",
+        "pack_code": "core",
+        "quantity": 1,
+        "text": "<strong>Interrupt:</strong> When you deploy an attachment, reduce its cost by 1.\n<strong>Combat Action:</strong> Exhaust this support to deploy an attachment from your hand.",
+        "title": "Ambush Platform",
+        "traits": [
+            "Upgrade"
+        ],
+        "type_code": "support"
+    },
+    {
         "code": "169",
         "cost": 0,
         "faction_code": "neutral",
