@@ -309,7 +309,7 @@
         "position": 15,
         "quantity": 2,
         "text": "While this unit is ready, it gains, \"<strong>Interrupt:</strong> When this unit is assigned damage, prevent 1 of that damage.\"",
-        "title": " Blood Angels Veterans",
+        "title": "Blood Angels Veterans",
         "traits": [
             "Soldier",
             "Blood Angels"
@@ -619,7 +619,7 @@
         "quantity": 4,
         "signed": true,
         "text": "<strong>Interrupt:</strong> When this unit leaves play, put a Guardsman token into play at the same planet.",
-        "title": " Straken's Command Squad",
+        "title": "Straken's Command Squad",
         "traits": [
             "Soldier",
             "Catachan"
@@ -637,7 +637,7 @@
         "quantity": 1,
         "signed": true,
         "text": "<strong>Reaction:</strong> After you win a command struggle, put a Guardsman token into play at that planet.",
-        "title": " Omega Zero Command",
+        "title": "Omega Zero Command",
         "traits": [
             "Location"
         ],
@@ -746,7 +746,7 @@
         "code": "01038",
         "cost": 5,
         "faction_code": "astra",
-        "flavor": "\" What I cannot crush with words, I will crush with the tanks of the Imperial Guard!\"\n-Lord Solar Macharius",
+        "flavor": "\"What I cannot crush with words, I will crush with the tanks of the Imperial Guard!\"\n-Lord Solar Macharius",
         "hp": 6,
         "illustrator": "David Nash",
         "loyal": true,
@@ -936,7 +936,7 @@
         "quantity": 1,
         "shields": 2,
         "text": "<strong>Combat Action:</strong> Target up to 3 [ASTRA MILITARUM] units you control at the same planet. Each targeted unit gains Ranged until the end of the phase. <em>(Units with Ranged attack during the ranged skirmish at the beginning of a battle.)</em>",
-        "title": " Preemptive Barrage",
+        "title": "Preemptive Barrage",
         "traits": [
             "Tactic"
         ],
@@ -3102,7 +3102,7 @@
         "pack_code": "core",
         "position": 159,
         "quantity": 1,
-        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)<em>",
+        "text": "Ranged. <em>(This unit attacks during the ranged skirmish at the beginning of a battle.)</em>",
         "title": "Stingwing Swarm",
         "traits": [
             "Warrior",
