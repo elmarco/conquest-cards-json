@@ -2165,7 +2165,7 @@
         "pack_code": "core",
         "position": 111,
         "quantity": 1,
-        "text": "No <strong>Wargear</strong< Attachments.\nFlying. <em>(This unit takes half damage from non-Flying units.)</em><strong>Reaction:</strong> After this unit damages a non-warlord unit, rout that unit.",
+        "text": "No <strong>Wargear</strong> Attachments.\nFlying. <em>(This unit takes half damage from non-Flying units.)</em><strong>Reaction:</strong> After this unit damages a non-warlord unit, rout that unit.",
         "title": "Black Heart Ravager",
         "traits": [
             "Vehicle",
